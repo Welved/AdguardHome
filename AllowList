@@ -18,7 +18,7 @@
 @@||s3.amazonaws.com^$important
 @@||reddit.com^$important
 @@||search.brave.com^$important
-@@||www.ziprecruiter.com^$important
+@@||ziprecruiter.com^$important
 @@||interns-brookings.icims.com^$important
 @@||linkedin.com^$important
 @@||online-check.safing.io^$important
@@ -33,10 +33,10 @@
 @@||assets.adobedtm.com^$important
 @@||app.launchdarkly.com^$important
 @@||rr*.googlevideo.com^$important
-@@||www.instagram.com^$important
+@@||instagram.com^$important
 @@||cdninstagram.com^$important
 @@||apicdn17.one^$important
-@@||www.redditstatic.com^$important
+@@||redditstatic.com^$important
 @@||ssl.gstatic.com^$important
 @@||duosecurity.com^$important
 @@||office.com^$important
@@ -96,7 +96,7 @@
 @@||sbasian.pro^$important
 @@||dood.wf^$important
 @@||mixdrop.co^$important
-@@||www.disneyplus.com^$important
+@@||disneyplus.com^$important
 @@||disney-plus.net^$important
 @@||bamgrid.com^$important
 @@||cdn.registerdisney.go.com^$important
@@ -441,10 +441,8 @@
 @@||assets.adobedtm.com^$important
 @@||app.launchdarkly.com^$important
 @@||rr*.googlevideo.com^$important
-@@||www.instagram.com^$important
 @@||cdninstagram.com^$important
 @@||apicdn17.one^$important
-@@||www.redditstatic.com^$important
 @@||ssl.gstatic.com^$important
 @@||duosecurity.com^$important
 @@||office.com^$important
@@ -528,7 +526,7 @@
 @@||thecoilmc.com^$important
 @@||minecraftservices.com^$important
 @@||minecraft.net^$important
-@@||www.criminalip.io^$important
+@@||criminalip.io^$important
 @@||addons.mozilla.org^$important
 @@||easylist-downloads.adblockplus.org^$important
 @@||easylist.to^$important
@@ -549,7 +547,7 @@
 @@||docker.io^$important
 @@||docker.com^$important
 @@||you.com^$important
-@@||www.wundertech.net^$important
+@@||wundertech.net^$important
 @@||mcloud.to^$important
 @@||filemoon.sx^$important
 @@||mp4upload.com^$important
@@ -565,7 +563,6 @@
 @@||ww8.0123movie.net^$important
 @@||watchmovies.pw^$important
 @@||123-movies.blog^$important
-@@||www.thecorrectblogger.com^$important
 @@||watchmovies.support^$important
 @@||freemovies.fit^$important
 @@||0123moviesfree.org^$important
@@ -665,7 +662,6 @@
 @@||managementstudyguide.com^$important
 @@||msauth.net^$important
 @@||grubhub.com^$important
-@@||mateoliving.com^$important
 @@||maps.googleapis.com^$important
 @@||payments-amazon.com^$important
 @@||cookielaw.org^$important
