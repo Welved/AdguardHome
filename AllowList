@@ -10,6 +10,7 @@
 @@||aadcdn.msauth.net^$important
 @@||abyss.to^$important
 @@||account.microsoft.com^$important
+@@||accounts.google.com^$impor172.17.0.4tant
 @@||accounts.google.com^$important
 @@||addons.mozilla.org^$important
 @@||adguard.jancenk.com^$important
@@ -46,6 +47,7 @@
 @@||bee-link.com^$important
 @@||betterment.com^$important
 @@||bigcommerce.com^$important
+@@||binance.us^$important
 @@||bit.ly^$important
 @@||bitboycrypto.com^$important
 @@||bitget.com^$important
@@ -86,6 +88,7 @@
 @@||cfl.dropboxstatic.com^$important
 @@||chainid.network^$important
 @@||challenges.cloudflare.com^$important
+@@||changelly.com^$important
 @@||chegg.com^$important
 @@||chrome.google.com^$important
 @@||citation-api.com^$important
@@ -112,6 +115,7 @@
 @@||dbt3ch.com^$important
 @@||dbte.ch^$important
 @@||dbtechreviews.com^$important
+@@||debian.org^$important
 @@||dex.plutus.it^$important
 @@||dictionary.cambridge.org^$important
 @@||digicert.com^$important
@@ -179,12 +183,15 @@
 @@||githubusercontent.com^$important
 @@||gitlab.io^$important
 @@||gmail.com^$important
+@@||gnome.org^$important
 @@||grahamedgecombe.com^$important
 @@||grammarly.com^$important
 @@||graph.microsoft.com^$important
 @@||grubhub.com^$important
 @@||hackmd.io^$important
 @@||helpdeskgeek.com^$important
+@@||hls050.drafastcdn.pro^$important
+@@||hls050.vipdracdn.net^$important
 @@||hotmail.com^$important
 @@||humanmetrics.com^$important
 @@||hydrax.net^$important
@@ -201,6 +208,7 @@
 @@||infura.io^$important
 @@||ingest.sentry.io^$important
 @@||ingest.sentry.io^$important
+@@||intercom.io^$important
 @@||interns-brookings.icims.com^$important
 @@||investopedia.com^$important
 @@||ipchicken.com^$important
@@ -218,6 +226,7 @@
 @@||kmo.to^$important
 @@||kshow.one^$important
 @@||kshow123.tv^$important
+@@||launchpad.net^$important
 @@||ledger.com^$important
 @@||lever.co^$important
 @@||lh3.googleusercontent.com^$important
@@ -242,6 +251,7 @@
 @@||mega.io^$important
 @@||mega.nz^$important
 @@||mem.gfx.ms^$important
+@@||mercuryo.io^$important
 @@||met.no^$important
 @@||metamask.io^$important
 @@||minecraft.net^$important
@@ -269,6 +279,8 @@
 @@||ntta.org^$important
 @@||odkmedia.io^$important
 @@||office.com^$important
+@@||office.net^$important
+@@||office.net^$important
 @@||ogs.google.com^$important
 @@||omgubuntu.co.uk^$important
 @@||ondemandkorea.com^$important
@@ -280,11 +292,13 @@
 @@||ooklaserver.net^$important
 @@||openai.com^$important
 @@||openh264.org^$important
+@@||openload.co^$important
 @@||openstreetmap.org^$important
 @@||opentopodata.org^$important
 @@||optimism.io^$important
 @@||outlook.office365.com^$important
 @@||pages.dev^$important
+@@||pancakeswap.finance^$important
 @@||payments-amazon.com^$important
 @@||pcgamer.com^$important
 @@||personalitypathways.com^$important
@@ -312,7 +326,10 @@
 @@||redd.it^$important
 @@||reddit.com^$important
 @@||redditmedia.com^$important
+@@||redditstatic.com^$important
+@@||redirector.gvt1.com^$important
 @@||reelgood.com^$important
+@@||rns.id^$important
 @@||rr*.googlevideo.com^$important
 @@||s3.amazonaws.com^$important
 @@||s3-us-gov-west-1.amazonaws.com^$important
@@ -322,6 +339,7 @@
 @@||sbplay.org^$important
 @@||sdk.nsureapi.com^$important
 @@||search.brave.com^$important
+@@||self.inc^$important
 @@||sfx.ms^$important
 @@||sharepointonline.com^$important
 @@||shopify.com^$important
@@ -346,6 +364,7 @@
 @@||steampowered.com^$important
 @@||steamserver.net^$important
 @@||storyblok.com^$important
+@@||stream4u.io^$important
 @@||streamsss.net^$important
 @@||streamtape.com^$important
 @@||streetviewpixels-pa.googleapis.com^$important
@@ -354,6 +373,7 @@
 @@||superuser.com^$important
 @@||support.google.com^$important
 @@||syldium.dev^$important
+@@||syncthing.net^$important
 @@||tailscale.com^$important
 @@||tangem.com^$important
 @@||tangem-tech.com^$important
@@ -373,11 +393,15 @@
 @@||ubereats.com^$important
 @@||ubuntu.com^$important
 @@||uniswap.org^$important
+@@||updates.safing.io^$important
+@@||uphold.world^$important
 @@||userway.org^$important
 @@||varomoney.com^$important
 @@||verywellmind.com^$important
+@@||vev.io^$important
 @@||viber.com^$important
 @@||vidmoly.to^$important
+@@||visualstudio.com^$important
 @@||vizcloud.co^$important
 @@||vmware.com^$important
 @@||voice.google.com^$important
@@ -409,6 +433,8 @@
 @@||www.disneyplus.com^$important
 @@||www.dramacool9.pw^$important
 @@||www.google.com^$important
+@@||www.googleapis.com^$important
+@@||www.gstatic.com^$important
 @@||www.microsoft.com^$important
 @@||www.odwebp.svc.ms^$important
 @@||www.wundertech.net^$important
@@ -416,6 +442,7 @@
 @@||xboxlive.com^$important
 @@||yelp.com^$important
 @@||yidio.com^$important
+@@||ykmskivf.com^$important
 @@||yotpo.com^$important
 @@||you.com^$important
 @@||youtube.com^$important
@@ -424,3 +451,4 @@
 @@||zdassets.com^$important
 @@||zendesk.com^$important
 @@||ziprecruiter.com^$important
+@@||zopim.com^$important
