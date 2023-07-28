@@ -10,7 +10,7 @@
 @@||aadcdn.msauth.net^$important
 @@||abyss.to^$important
 @@||account.microsoft.com^$important
-@@||accounts.google.com^$impor172.17.0.4tant
+@@||accounts.google.com^$important
 @@||accounts.google.com^$important
 @@||addons.mozilla.org^$important
 @@||adguard.jancenk.com^$important
@@ -42,6 +42,8 @@
 @@||assets.adobedtm.com^$important
 @@||assets.onestore.ms^$important
 @@||avax.network^$important
+@@||aws.dev^$important
+@@||az764295.vo.msecnd.net^$important
 @@||ballet.com^$important
 @@||bamgrid.com^$important
 @@||bee-link.com^$important
@@ -50,6 +52,7 @@
 @@||binance.us^$important
 @@||bit.ly^$important
 @@||bitboycrypto.com^$important
+@@||bitdefender.com^$important
 @@||bitget.com^$important
 @@||bitrefill.com^$important
 @@||bitwarden.com^$important
@@ -60,6 +63,7 @@
 @@||blockfi.com^$important
 @@||braintree-api.com^$important
 @@||braintreegateway.com^$important
+@@||bridge.walletconnect.org^$important
 @@||britannica.com^$important
 @@||brn30055ce52839^$important
 @@||browser.events.data.microsoft.com^$important
@@ -90,11 +94,13 @@
 @@||challenges.cloudflare.com^$important
 @@||changelly.com^$important
 @@||chegg.com^$important
+@@||chocolatey.org^$important
 @@||chrome.google.com^$important
 @@||citation-api.com^$important
 @@||citationmachine.net^$important
 @@||clients2.googleusercontent.com^$important
 @@||clients6.google.com^$important
+@@||cloud9.to^$important
 @@||cloudflare.com^$important
 @@||cloudfront.net^$important
 @@||cloudinary.com^$important
@@ -103,6 +109,7 @@
 @@||coinatmfinder.com^$important
 @@||coinbase.com^$important
 @@||coinify.com^$important
+@@||coinledger.io^$important
 @@||coinmarketcap.com^$important
 @@||compound.finance^$important
 @@||cookielaw.org^$important
@@ -116,6 +123,7 @@
 @@||dbte.ch^$important
 @@||dbtechreviews.com^$important
 @@||debian.org^$important
+@@||default.exp-tas.com^$important
 @@||dex.plutus.it^$important
 @@||dictionary.cambridge.org^$important
 @@||digicert.com^$important
@@ -141,6 +149,7 @@
 @@||download.mozilla.org^$important
 @@||download-installer.cdn.mozilla.net^$important
 @@||dqpnq362acqdi.cloudfront.net^$important
+@@||drafastcdn.pro^$important
 @@||dramacool.ae^$important
 @@||dramacool.cy^$important
 @@||dramacool.hr^$important
@@ -151,6 +160,7 @@
 @@||dropboxforum.com^$important
 @@||dropboxusercontent.com^$important
 @@||duosecurity.com^$important
+@@||dydx.exchange^$important
 @@||dynamicsuser.net^$important
 @@||easylist.to^$important
 @@||easylist-downloads.adblockplus.org^$important
@@ -160,7 +170,9 @@
 @@||epay.com^$important
 @@||ethereum.org^$important
 @@||etherscan.io^$important
+@@||eth-mainnet.alchemyapi.io^$important
 @@||fandom.com^$important
+@@||fcdn.stream^$important
 @@||f-droid.org^$important
 @@||fembed.com^$important
 @@||fembed9hd.com^$important
@@ -170,6 +182,7 @@
 @@||fonts.googleapis.com^$important
 @@||fonts.gstatic.com^$important
 @@||frame.work^$important
+@@||frameworkmarketplace.cdn.prismic.io^$important
 @@||freemovies.fit^$important
 @@||gamergeeks.net^$important
 @@||gate.io^$important
@@ -215,6 +228,7 @@
 @@||ipv4only.arpa^$important
 @@||jnn-pa.googleapis.com^$important
 @@||joinhandshake.com^$important
+@@||js.media-lab.ai^$important
 @@||js.stripe.com^$important
 @@||keepassxc.org^$important
 @@||keepkey.com^$important
@@ -226,7 +240,9 @@
 @@||kmo.to^$important
 @@||kshow.one^$important
 @@||kshow123.tv^$important
+@@||kucoin.com^$important
 @@||launchpad.net^$important
+@@||leaseweb.net^$important
 @@||ledger.com^$important
 @@||lever.co^$important
 @@||lh3.googleusercontent.com^$important
@@ -242,6 +258,7 @@
 @@||managementstudyguide.com^$important
 @@||maps.google.com^$important
 @@||maps.googleapis.com^$important
+@@||maps.gstatic.com^$important
 @@||marcus.com^$important
 @@||mateoliving.com^$important
 @@||mcloud.to^$important
@@ -260,12 +277,14 @@
 @@||minecraftservices.com^$important
 @@||mirror1.cs-georgetown.net^$important
 @@||mixdrop.co^$important
+@@||mobile.events.data.microsoft.com^$important
 @@||mojang.com^$important
 @@||mp4upload.com^$important
 @@||msauth.net^$important
 @@||msftauth.net^$important
 @@||msn.com^$important
 @@||msocdn.com^$important
+@@||mullvad.net^$important
 @@||myaccount.google.com^$important
 @@||myasiantv.pe^$important
 @@||mycoinify.com^$important
@@ -295,13 +314,16 @@
 @@||openload.co^$important
 @@||openstreetmap.org^$important
 @@||opentopodata.org^$important
+@@||opnsense.org^$important
 @@||optimism.io^$important
 @@||outlook.office365.com^$important
+@@||packages.microsoft.com^$important
 @@||pages.dev^$important
 @@||pancakeswap.finance^$important
 @@||payments-amazon.com^$important
 @@||pcgamer.com^$important
 @@||personalitypathways.com^$important
+@@||pinimg.com^$important
 @@||piraproxy.net^$important
 @@||planetminecraft.com^$important
 @@||play.google.com^$important
@@ -372,6 +394,7 @@
 @@||stripe.network^$important
 @@||superuser.com^$important
 @@||support.google.com^$important
+@@||sushi.com^$important
 @@||syldium.dev^$important
 @@||syncthing.net^$important
 @@||tailscale.com^$important
@@ -381,9 +404,9 @@
 @@||thatsthem.com^$important
 @@||thecoilmc.com^$important
 @@||thecoilmc.shop^$important
-@@||thecoilmc.shop^$important
 @@||thingiverse.com^$important
 @@||thunderbird.net^$important
+@@||trakt.tv^$important
 @@||translate.google.com^$important
 @@||trezor.io^$important
 @@||trustwallet.com^$important
@@ -401,11 +424,17 @@
 @@||vev.io^$important
 @@||viber.com^$important
 @@||vidmoly.to^$important
+@@||vidstream.pro^$important
+@@||vimeo.com^$important
+@@||vipdracdn.net^$important
+@@||virustotal.com^$important
 @@||visualstudio.com^$important
 @@||vizcloud.co^$important
 @@||vmware.com^$important
 @@||voice.google.com^$important
 @@||vortex.data.microsoft.com^$important
+@@||vsassets.io^$important
+@@||vscode.dev^$important
 @@||walletconnect.com^$important
 @@||walletlink.org^$important
 @@||walmart.com^$important
@@ -436,6 +465,7 @@
 @@||www.googleapis.com^$important
 @@||www.gstatic.com^$important
 @@||www.microsoft.com^$important
+@@||www.mozilla.org^$important
 @@||www.odwebp.svc.ms^$important
 @@||www.wundertech.net^$important
 @@||www3.myasiantv.tv^$important
