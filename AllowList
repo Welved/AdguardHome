@@ -494,8 +494,7 @@
 @@||aniwave.to^$important
 @@||duckduckgo.com.lan^$important
 @@||www.metric-conversions.org^$important
-@@||mintmobile.com^$important
-@@||www.statefarm.com.lan^$important
+@@||*.mintmobile.com^$important
 @@||lookup.icann.org^$important
 @@||*.st8fm.com^$important
 @@||*.statefarm.com^$important
