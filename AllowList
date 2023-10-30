@@ -1,16 +1,12 @@
 @@||_https._tcp.esm.ubuntu.com^$important
-@@||0123movies.to^$important
-@@||0123moviesfree.org^$important
+@@||0123movies.*^$important
 @@||123-movies.blog^$important
 @@||1drv.ms^$important
-@@||9anime.pl^$important
-@@||9anime.to^$important
-@@||9animetv.to^$important
+@@||9anime*.*^$important
 @@||aa.google.com^$important
 @@||aadcdn.msauth.net^$important
 @@||abyss.to^$important
 @@||account.microsoft.com^$important
-@@||accounts.google.com^$important
 @@||accounts.google.com^$important
 @@||addons.mozilla.org^$important
 @@||adguard.jancenk.com^$important
@@ -24,7 +20,7 @@
 @@||api.launchpad.net^$important
 @@||api.movcloud.net^$important
 @@||api.sprig.com^$important
-@@||api.xbrowsersync.org^$important
+@@||*.xbrowsersync.org^$important
 @@||apicdn17.one^$important
 @@||apicdn19.one^$important
 @@||apidata.googleusercontent.com^$important
