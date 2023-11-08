@@ -811,3 +811,5 @@
 @@||*.dominos.com^$important
 @@||*.adobelogin.com^$important
 @@||*.adobe.io^$important
+@@||*.adobecontent.io^$important
+@@||*.acrocomcontent.com^$important
