@@ -584,7 +584,7 @@
 @@||www.hrblock.com^$important
 @@||www.michigan.gov^$important
 @@||taxfoundation.org^$important
-@@||www.irs.gov^$important
+@@||*.irs.gov^$important
 @@||blog.taxact.com^$important
 @@||www.cambly.com^$important
 @@||www.att.com^$important
@@ -818,3 +818,17 @@
 @@||myanimelist.net^$important
 @@||www.paypalobjects.com^$important
 @@||*.paypal.com^$important
+@@||arlingtonpd.org^$important
+@@||www.thecut.com^$important
+@@||pyxis.nymag.com^$important
+@@||cdn.arstechnica.net^$important
+@@||cdn.embedly.com^$important
+@@||device-api.urbanairship.com^$important
+@@||matrix.redditspace.com^$important
+@@||www.usajobs.gov^$important
+@@||login.usajobs.gov^$important
+@@||apply.usastaffing.gov^$important
+@@||www.fcc.gov^$important
+@@||usmobile.helpdocs.io^$important
+@@||u6066220.ct.sendgrid.net^$important
+@@||img.123moviesto.pw^$important
