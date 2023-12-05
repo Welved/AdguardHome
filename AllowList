@@ -937,4 +937,5 @@
 @@||abp.oisd.nl^$important
 @@||pgl.yoyo.org^$important
 @@||www.gog.com^$important
-@@||images-*.gog-statics.com^$important
+@@||*.gog-statics.com^$important
+@@||gog.com^$important
