@@ -946,7 +946,4 @@
 @@||vidplay.online^$important
 @@||*.stash.com^$important
 @@||app.stash.com^$important
-@@||www.usaa.com^$important
-@@||api.usaa.com^$important
-@@||content.usaa.com^$important
-@@||tms.usaa.com^$important
+@@||*.usaa.com^$important
