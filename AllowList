@@ -948,3 +948,8 @@
 @@||app.stash.com^$important
 @@||*.usaa.com^$important
 @@||www.lendingclub.com^$important
+@@||www.span.io^$important
+@@||lokinet.org^$important
+@@||sgtm.yubico.com^$important
+@@||us-central1-zendesk-functions.cloudfunctions.net^$important
+@@||resources.yubico.com^$important
