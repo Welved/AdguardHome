@@ -1,8 +1,7 @@
-msftconnecttest.com
-www.bing.com
-settings-win.data.microsoft.com
-api.msn.com
-arc.msn.com
-*.digicert.com
-*.live.com
-www.office.com
+||*.data.microsoft.com^$important
+||*.msn.com^$important
+||*.digicert.com^$important
+||*.live.com^$important
+||*office.com^$important
+||*.msftconnecttest.com^$important
+||*.bing.com^$important
