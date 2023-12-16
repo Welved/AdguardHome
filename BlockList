@@ -3,3 +3,5 @@
 /\.+[a-zA-Z]{-4,}$/
 ||websites.am-static.com^$important
 ||weatherplusnow.com^$important
+||dns.msftncsi.com^$important
+||wo.vzwwo.com^$important
