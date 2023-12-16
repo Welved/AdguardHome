@@ -1,6 +1,6 @@
 *$denyallow=edu|mil|gov|com
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
+||*.*##.*.*
 ||websites.am-static.com^$important
 ||weatherplusnow.com^$important
-||www.ubereats.com##.*.8
