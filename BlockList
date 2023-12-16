@@ -1,6 +1,5 @@
-*$denyallow=edu|mil|gov|com
+*$denyallow=edu|mil|gov
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
-||*.*##.*.*
 ||websites.am-static.com^$important
 ||weatherplusnow.com^$important
