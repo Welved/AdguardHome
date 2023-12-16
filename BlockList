@@ -1,7 +1,27 @@
 *$denyallow=edu|mil|gov
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
-||websites.am-static.com^$important
-||weatherplusnow.com^$important
-||dns.msftncsi.com^$important
-||wo.vzwwo.com^$important
+||	*.adcolony.com	^$important
+||	*.amplitude.com	^$important
+||	*.am-static.com	^$important
+||	*.applovin.com	^$important
+||	*.applvn.com	^$important
+||	*.chesscomfiles.com	^$important
+||	*.datadog.pool.ntp.org	^$important
+||	*.g.doubleclick.net	^$important
+||	*.google-analytics.com	^$important
+||	*.googleapis.com	^$important
+||	*.googlesyndication.com	^$important
+||	*.googleusercontent.com	^$important
+||	*.intergient.com	^$important
+||	*.izatcloud.net	^$important
+||	*.msftncsi.com	^$important
+||	*.onetrust.io	^$important
+||	*.scorecardresearch.com	^$important
+||	*.sdk.inmobi.com	^$important
+||	*.ssacdn.com	^$important
+||	*.supersonicads.com	^$important
+||	*.vzwwo.com	^$important
+||	app-measurement.com	^$important
+||	img-place.com	^$important
+||	weatherplusnow.com	^$important
