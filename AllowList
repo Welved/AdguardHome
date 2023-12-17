@@ -1029,3 +1029,6 @@
 @@||*.kakao.com^$important
 @@||raspberrypi.org^$important
 @@||*.*.quoracdn.net^$important
+@@||hackaday.com^$important
+@@||www.yankodesign.com^$important
+@@||www.etsy.com^$important
