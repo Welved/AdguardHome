@@ -1009,3 +1009,11 @@
 @@||zoom.earth^$important
 @@||zoom.us^$important
 @@||zopim.com^$important
+@@||www.dictionary.com^$important
+@@||www.merriam-webster.com^$important
+@@||chat.google.com^$important
+@@||meet.google.com^$important
+@@||contacts.google.com^$important
+@@||doc-*-*-docstext.googleusercontent.com^$important
+@@||www.imdb.com^$important
+@@||*.wikimedia.org^$important
