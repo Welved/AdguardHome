@@ -1034,3 +1034,4 @@
 @@||www.etsy.com^$important
 @@||www.raspberrypi.com^$important
 @@||*.etsystatic.com^$important
+@@||android.clients.google.com^$important
