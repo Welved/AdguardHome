@@ -27,3 +27,8 @@
 ||weatherplusnow.com^$important
 ||*.gl-inet.com^$important^$important
 ||*.google.com^$important
+||*.onkakao.net^$important
+||*.perimeterx.net^$important
+||*.gstatic.com^$important
+||*.doralytics.com^$important
+||*.googleapis.com^$important
