@@ -1036,3 +1036,4 @@
 @@||*.etsystatic.com^$important
 @@||android.clients.google.com^$important
 @@||play.googleapis.com^$important
+@@||*.gvt1.com^$important
