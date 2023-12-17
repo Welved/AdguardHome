@@ -1037,3 +1037,5 @@
 @@||android.clients.google.com^$important
 @@||play.googleapis.com^$important
 @@||*.gvt1.com^$important
+@@||*.gl-inet.com^$important
+@@||*.tailscale.io^$important
