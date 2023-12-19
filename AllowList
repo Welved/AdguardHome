@@ -1050,4 +1050,4 @@
 @@||mavenspun.com^$important
 @@||streamwish.com^$important
 @@||hls074.searchmovieapi.com^$important
-@@||js.hcaptcha.com^$important
+@@||*.hcaptcha.com^$important
