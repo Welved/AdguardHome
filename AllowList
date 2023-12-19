@@ -434,7 +434,10 @@
 @@||intercom.io^$important
 @@||interns-brookings.icims.com^$important
 @@||investopedia.com^$important
-@@||investor.vanguard.com^$important
+@@||investor.vanguard.com^$important@@||streamwish.com^$important
+@@||hls074.searchmovieapi.com^$important
+@@||js.hcaptcha.com^$important
+
 @@||ipchicken.com^$important
 @@||ipv4only.arpa^$important
 @@||is1-ssl.mzstatic.com^$important
@@ -1051,3 +1054,4 @@
 @@||streamwish.com^$important
 @@||hls074.searchmovieapi.com^$important
 @@||*.hcaptcha.com^$important
+asdf
