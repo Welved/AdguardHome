@@ -32,3 +32,7 @@
 ||*.gstatic.com^$important
 ||*.doralytics.com^$important
 ||*.googleapis.com^$important
+||unmined.net^$important
+||aem-finance-collector.onkakao.net^$important
+||webapi.sdk.crowd-umlaut.com^$important
+||pool.ntp.org^$important
