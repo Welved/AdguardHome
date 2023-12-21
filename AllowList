@@ -1037,7 +1037,6 @@
 @@||www.etsy.com^$important
 @@||www.raspberrypi.com^$important
 @@||*.etsystatic.com^$important
-@@||android.clients.google.com^$important
 @@||play.googleapis.com^$important
 @@||*.gvt1.com^$important
 @@||*.gl-inet.com^$important
@@ -1060,10 +1059,8 @@
 @@||vscode.download.prss.microsoft.com^$important
 @@||www.netify.ai^$important
 @@||prod-api.154310543964.hellopublic.com^$important
-@@||android.googleapis.com^$important
 @@||www.ipaddress.com^$important
 @@||developers.google.com^$important
-@@||gmscompliance-pa.googleapis.com^$important
 @@||universal.hellopublic.com^$important
 @@||auroraoss.com^$important
-@@||connectivitycheck.android.com^$important
+@@||*.android.com^$important
