@@ -42,3 +42,6 @@
 ||*.mcloud.bz^$important
 ||*.gl-inet.com^$
 ||mobile.events.data.microsoft.com^$important
+||fw.gl-inet.com^$important
+||dlt-beacon.dynatrace-managed.com^$important
+||*.cloudfront.net^$important
