@@ -47,3 +47,9 @@
 ||*.dynatrace-managed.com^$important
 ||*.office.com^$important
 ||*.office.net^$important
+||*.events.data.microsoft.com^$important
+||*.gl-inet.com^$important
+||*.lifecycle.office.net^$important
+||*.pushnp.svc.ms^$important
+||*.sfx.ms^$important
+||*.storage.live.com^$important
