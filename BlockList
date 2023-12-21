@@ -45,3 +45,5 @@
 ||*.cloudfront.net^$important
 ||*.gl-inet.com^$important
 ||*.dynatrace-managed.com^$important
+||*.office.com^$important
+||*.office.net^$important
