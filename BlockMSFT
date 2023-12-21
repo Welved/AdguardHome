@@ -5,3 +5,10 @@
 ||*office.com^$important
 ||*.msftconnecttest.com^$important
 ||*.bing.com^$important
+||*.pushnp.svc.ms^$important
+||*.storage.live.com^$important
+||*.onedrive.live.com^$important
+||*.cdn.office.net^$important
+||*.sharepointonline.com^$important
+||*shellprod*.msocdn.com^$important
+||*.sfx.ms^$important
