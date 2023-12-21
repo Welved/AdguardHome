@@ -35,3 +35,8 @@
 ||aem-finance-collector.onkakao.net^$important
 ||webapi.sdk.crowd-umlaut.com^$important
 ||pool.ntp.org^$important
+||*.disqus.com^$important
+||epdg.epc.mnc260.mcc310.pub.3gppnetwork.org^$important
+||lzoy.mcloud.bz^$important
+||*.aniwave.to^$important
+||*.mcloud.bz^$important
