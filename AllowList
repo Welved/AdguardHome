@@ -5,6 +5,10 @@
 @@||*.dropbox.com^$important
 @@||*.simplelogin.io^$important
 @@||*.safing.io^$important
+@@||*.intercomcdn.com^$important
+@@||*.anthropic.com^$important
+@@||accounts.youtube.com^$important
+@@||www.google.com^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||i.ytimg.com^$important
 @@||www.youtube.com^$important
@@ -20,3 +24,4 @@
 @@||www.gstatic.com^$important
 @@||eats.uber.com^$important
 @@||github.com^$important
+@@||www.googleapis.com^$important
