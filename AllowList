@@ -7,6 +7,9 @@
 @@||*.safing.io^$important
 @@||*.intercomcdn.com^$important
 @@||*.anthropic.com^$important
+@@||*.xboxlive.com^$important
+@@||*.syncthing.net^$important
+@@||*.mojang.com^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||accounts.youtube.com^$important
 @@||api.xbrowsersync.org^$important
@@ -33,3 +36,11 @@
 @@||gmail.com^$important
 @@||claude.ai^$important
 @@||kakao.com^$important
+@@||t1.kakaocdn.net^$important
+@@||user-api.speedtest.net^$important
+@@||www.speedtest.net^$important
+@@||mapi.speedtest.net^$important
+@@||www.reddit.com^$important
+@@||www.redditstatic.com^$important
+@@||api.minecraftservices.com^$important
+@@||frame.work^$important
