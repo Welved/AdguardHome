@@ -17,4 +17,6 @@
 @@||accounts.google.com^$important
 @@||imap.gmail.com^$important
 @@||www.gstatic.com^$important
+@@||js.stripe.com^$important
 @@||eats.uber.com^$important
+@@||github.com^$important
