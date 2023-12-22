@@ -1,4 +1,4 @@
-*.*.*$denyallow=edu|mil|gov
+*$denyallow=edu|mil|gov
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
 ||*.visualstudio.com^$important
