@@ -63,4 +63,4 @@
 @@||images-na.ssl-images-amazon.com^$important
 @@||tailscale.com^$important
 @@||apis.google.com^$important
-@@||*.clients6.google.com^$important
+www.clients6.google.com
