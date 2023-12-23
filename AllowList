@@ -1,4 +1,5 @@
 @@||rr*---sn-*.googlevideo.com^$important
+@@||rr*---sn-*-*.gvt1.com^$important
 @@||*.blackboardcdn.com^$important
 @@||*.blackboard.com^$important
 @@||*.brave.com^$important
@@ -12,7 +13,6 @@
 @@||*.mojang.com^$important
 @@||*.media-amazon.com^$important
 @@||*.googleapis.com^$important
-@@||rr*---sn-*-*.gvt1.com^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||accounts.youtube.com^$important
 @@||api.xbrowsersync.org^$important
