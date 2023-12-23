@@ -64,3 +64,5 @@
 @@||tailscale.com^$important
 @@||apis.google.com^$important
 www.clients6.google.com
+@@||android.clients.google.com^$important
+@@||play-lh.googleusercontent.com^$important
