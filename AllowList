@@ -10,6 +10,9 @@
 @@||*.xboxlive.com^$important
 @@||*.syncthing.net^$important
 @@||*.mojang.com^$important
+@@||*.media-amazon.com^$important
+@@||*.googleapis.com^$important
+@@||rr*---sn-*-*.gvt1.com^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||accounts.youtube.com^$important
 @@||api.xbrowsersync.org^$important
@@ -53,13 +56,11 @@
 @@||styles.redditmedia.com^$important
 @@||fonts.gstatic.com^$important
 @@||vidplay.online^$important
-@@||*.googleapis.com^$important
 @@||mcloud.bz^$important
 @@||kakaocdn.net^$important
 @@||filemoon.sx^$important
 @@||mp4upload.com^$important
 @@||www.amazon.com^$important
-@@||*.media-amazon.com^$important
 @@||images-na.ssl-images-amazon.com^$important
 @@||tailscale.com^$important
 @@||apis.google.com^$important
