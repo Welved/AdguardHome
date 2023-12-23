@@ -8,7 +8,6 @@
 @@||*.intercomcdn.com^$important
 @@||*.anthropic.com^$important
 @@||*.xboxlive.com^$important
-@@||*.syncthing.net^$important
 @@||*.mojang.com^$important
 @@||*.media-amazon.com^$important
 @@||*.googleapis.com^$important
@@ -98,3 +97,4 @@ www.clients6.google.com
 @@||cdn.sstatic.net^$important
 @@||www.vidsrc.to^$important
 @@||cdnjs.cloudflare.com^$important
+@@||syncthing.net^$important
