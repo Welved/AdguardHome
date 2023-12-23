@@ -21,6 +21,7 @@
 @@||*.google.com^$important
 @@||*.mega.co.nz^$important
 @@||*.chess.com^$important
+@@||*.minecraft.net^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||accounts.youtube.com^$important
 @@||api.xbrowsersync.org^$important
