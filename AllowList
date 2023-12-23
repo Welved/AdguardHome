@@ -27,6 +27,7 @@
 @@||*.gl-inet.com^$important
 @@||*.githubassets.com^$important
 @@||*.visualstudio.com^$important
+@@||*.tailscale.com^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||api.xbrowsersync.org^$important
 @@||api.dropboxapi.com^$important
@@ -70,8 +71,6 @@
 @@||mp4upload.com^$important
 @@||www.amazon.com^$important
 @@||images-na.ssl-images-amazon.com^$important
-@@||tailscale.com^$important
-www.clients6.google.com
 @@||android.clients.google.com^$important
 @@||www.truenas.com^$important
 @@||www.netify.ai^$important
