@@ -22,8 +22,8 @@
 @@||*.mega.co.nz^$important
 @@||*.chess.com^$important
 @@||*.minecraft.net^$important
+@@||*.youtube.com^$important
 @@||api-bcb54897.duosecurity.com^$important
-@@||accounts.youtube.com^$important
 @@||api.xbrowsersync.org^$important
 @@||api.dropboxapi.com^$important
 @@||www.googleapis.com^$important
@@ -34,7 +34,6 @@
 @@||log.tailscale.io^$important
 @@||www.gstatic.com^$important
 @@||chat.openai.com^$important
-@@||www.youtube.com^$important
 @@||www.kayak.com^$important
 @@||eats.uber.com^$important
 @@||api.lyft.com^$important
