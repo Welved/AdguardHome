@@ -25,6 +25,9 @@
 @@||*.youtube.com^$important
 @@||*.redd.it^$important
 @@||*.gl-inet.com^$important
+@@||*.githubassets.com^$important
+@@||*.visualstudio.com^$important
+@@||mobile.events.data.microsoft.com^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||api.xbrowsersync.org^$important
 @@||api.dropboxapi.com^$important
