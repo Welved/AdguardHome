@@ -30,6 +30,7 @@
 @@||*.tailscale.com^$important
 @@||*.stackoverflow.com^$important
 @@||*.fandom.com^$important
+@@||*.wikia.nocookie.net^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||api.xbrowsersync.org^$important
 @@||api.dropboxapi.com^$important
