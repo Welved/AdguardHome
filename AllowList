@@ -55,6 +55,8 @@
 @@||*.tailscale.com^$important
 @@||*.g5dxm.com^$important
 @@||*.cloudinary.com^$important
+@@||*.onkakao.net^$important
+@@||*.kakaocdn.net^$important
 @@||themarkup.org^$important
 @@||www.mateoliving.com^$important
 @@||agliving.myresman.com^$important
@@ -80,7 +82,6 @@
 @@||gmail.com^$important
 @@||claude.ai^$important
 @@||kakao.com^$important
-@@||t1.kakaocdn.net^$important
 @@||user-api.speedtest.net^$important
 @@||www.speedtest.net^$important
 @@||mapi.speedtest.net^$important
@@ -97,7 +98,6 @@
 @@||fonts.gstatic.com^$important
 @@||vidplay.online^$important
 @@||mcloud.bz^$important
-@@||kakaocdn.net^$important
 @@||filemoon.sx^$important
 @@||mp4upload.com^$important
 @@||www.amazon.com^$important
