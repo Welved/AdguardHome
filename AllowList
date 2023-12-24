@@ -54,9 +54,9 @@
 @@||*._https.dallas1.cabospeed.com^$important
 @@||*.tailscale.com^$important
 @@||*.g5dxm.com^$important
+@@||*.cloudinary.com^$important
 @@||themarkup.org^$important
 @@||www.mateoliving.com^$important
-@@||res.cloudinary.com^$important
 @@||agliving.myresman.com^$important
 @@||b.cdnst.net^$important
 @@||api-bcb54897.duosecurity.com^$important
