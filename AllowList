@@ -32,6 +32,7 @@
 @@||*.fandom.com^$important
 @@||*.wikia.nocookie.net^$important
 @@||*.adultswim.com^$important
+@@||*.in-addr.arpa^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||api.xbrowsersync.org^$important
 @@||api.dropboxapi.com^$important
