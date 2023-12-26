@@ -57,6 +57,9 @@
 @@||*.cloudinary.com^$important
 @@||*.onkakao.net^$important
 @@||*.kakaocdn.net^$important
+@@||www.fakenamegenerator.com^$important
+@@||m1.com^$important
+@@||linuxhint.com^$important
 @@||themarkup.org^$important
 @@||www.mateoliving.com^$important
 @@||agliving.myresman.com^$important
