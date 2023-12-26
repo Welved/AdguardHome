@@ -2,3 +2,7 @@
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
 ||*.visualstudio.com^$important
+||nearbysharing-pa.googleapis.com^$important
+||signaler-pa.clients6.google.com^$important
+||semanticlocation-pa.googleapis.com^$important
+||metrics.ubuntu.com^$important
