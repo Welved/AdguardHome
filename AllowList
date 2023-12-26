@@ -57,6 +57,7 @@
 @@||*.cloudinary.com^$important
 @@||*.onkakao.net^$important
 @@||*.kakaocdn.net^$important
+@@||*.reddit.com^$important
 @@||www.fakenamegenerator.com^$important
 @@||m1.com^$important
 @@||linuxhint.com^$important
@@ -88,13 +89,10 @@
 @@||user-api.speedtest.net^$important
 @@||www.speedtest.net^$important
 @@||mapi.speedtest.net^$important
-@@||www.reddit.com^$important
 @@||www.redditstatic.com^$important
 @@||api.minecraftservices.com^$important
 @@||frame.work^$important
 @@||thecoilmc.com^$important
-@@||gql.reddit.com^$important
-@@||oauth.reddit.com^$important
 @@||aniwave.to^$important
 @@||static.bunnycdn.ru^$important
 @@||styles.redditmedia.com^$important
