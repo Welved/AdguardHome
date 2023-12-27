@@ -64,6 +64,7 @@
 @@||*.google.com^$important
 @@||*.my-alfred.com^$important
 @@||*.apkbe.com^$important
+@@||*.dropboxapi.com^$important
 @@||api.ipostal1.com^$important
 @@||global.turn.twilio.com^$important
 @@||brother.com^$important
