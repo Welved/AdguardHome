@@ -65,6 +65,12 @@
 @@||*.my-alfred.com^$important
 @@||*.apkbe.com^$important
 @@||*.dropboxapi.com^$important
+@@||*.scdn.co^$important
+@@||spotify.com^$important
+@@||open.spotifycdn.com^$important
+@@||scdnco.spotify.map.fastly.net^$important
+@@||atc.spotify.map.fastly.net^$important
+@@||audio-ak-spotify-com.akamaized.net^$important
 @@||api.ipostal1.com^$important
 @@||global.turn.twilio.com^$important
 @@||brother.com^$important
