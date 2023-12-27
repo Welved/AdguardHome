@@ -1,5 +1,6 @@
 @@||rr*---sn-*.googlevideo.com^$important
-@@||rr*---sn-*-*.gvt1.com^$important
+@@||rr*---sn-*.gvt1.com^$important
+@@||*.apkdone.download^$important
 @@||*.blackboard*.com^$important
 @@||*.brave.com^$important
 @@||*.dropbox.com^$important
@@ -61,6 +62,14 @@
 @@||*.waze.com^$important
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
+@@||abp.oisd.nl^$important
+@@||resman.blob.core.windows.net^$important
+@@||resmanapp.cloudapp.net^$important
+@@||*.apkbe.com^$important
+@@||apkdone.com^$important
+@@||cloudflare.com^$important
+@@||apkdata.a56b31353d7c030e6002c8fb6324539f.r2.cloudflarestorage.com^$important
+@@||mashtips.com^$important
 @@||fonts.gstatic.com^$important
 @@||aa.com^$important
 @@||delta.com^$important
