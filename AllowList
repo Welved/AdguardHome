@@ -17,7 +17,6 @@
 @@||*.trustpilot.net^$important
 @@||*.credly.com^$important
 @@||*.githubusercontent.com^$important
-@@||*.google.com^$important
 @@||*.mega.co.nz^$important
 @@||*.chess.com^$important
 @@||*.minecraft.net^$important
@@ -112,7 +111,7 @@
 @@||mp4upload.com^$important
 @@||www.amazon.com^$important
 @@||images-na.ssl-images-amazon.com^$important
-@@||android.clients.google.com^$important
+@@||android.`clients`.google.com^$important
 @@||www.truenas.com^$important
 @@||www.netify.ai^$important
 @@||api.my-alfred.com^$important
