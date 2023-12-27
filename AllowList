@@ -59,6 +59,17 @@
 @@||*.kakaocdn.net^$important
 @@||*.reddit.com^$important
 @@||*.quora.com^$important
+@@||*.ubereats.com^$important
+@@||*.uber.com^$important
+@@||www.quora.com.cdn.cloudflare.net^$important
+@@||reddit.map.fastly.net^$important
+@@||ipchicken.com^$important
+@@||imgur.com^$important
+@@||d3i4yxtzktqr9n.cloudfront.net^$important
+@@||api.tiles.mapbox.com^$important
+@@||d4p17acsd5wyj.cloudfront.net^$important
+@@||superuser.com^$important
+@@||syncthing.github.io^$important
 @@||www.fakenamegenerator.com^$important
 @@||m1.com^$important
 @@||linuxhint.com^$important
