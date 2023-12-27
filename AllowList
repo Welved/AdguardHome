@@ -59,12 +59,9 @@
 @@||*.ubereats.com^$important
 @@||*.uber.com^$important
 @@||*.waze.com^$important
-@@||voice.l.google.com^$important
-@@||fonts.googleapis.com^$important
-@@||android.googleapis.com^$important
+@@||*.googleapis.com^$important
 @@||clients6.google.com^$important
 @@||fonts.gstatic.com^$important
-@@||apis.google.com^$important
 @@||aa.com^$important
 @@||delta.com^$important
 @@||content.r9cdn.net^$important
@@ -79,7 +76,6 @@
 @@||accounts.google.com^$important
 @@||play.google.com^$important
 @@||android.clients.google.com^$important
-@@||play.googleapis.com^$important
 @@||tailscale.com^$important
 @@||www.quora.com.cdn.cloudflare.net^$important
 @@||reddit.map.fastly.net^$important
