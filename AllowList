@@ -62,11 +62,14 @@
 @@||*.waze.com^$important
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
+@@||*.my-alfred.com^$important
+@@||*.apkbe.com^$important
+@@||api.ipostal1.com^$important
+@@||global.turn.twilio.com^$important
+@@||brother.com^$important
 @@||abp.oisd.nl^$important
 @@||resman.blob.core.windows.net^$important
 @@||resmanapp.cloudapp.net^$important
-@@||*.apkbe.com^$important
-@@||apkdone.com^$important
 @@||cloudflare.com^$important
 @@||apkdata.a56b31353d7c030e6002c8fb6324539f.r2.cloudflarestorage.com^$important
 @@||mashtips.com^$important
