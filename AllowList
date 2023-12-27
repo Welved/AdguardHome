@@ -58,6 +58,12 @@
 @@||*.quora.com^$important
 @@||*.ubereats.com^$important
 @@||*.uber.com^$important
+@@||auroraoss.com^$important
+@@||accounts.google.com^$important
+@@||play.google.com^$important
+@@||android.clients.google.com^$important
+@@||play.googleapis.com^$important
+@@||tailscale.com^$important
 @@||www.quora.com.cdn.cloudflare.net^$important
 @@||reddit.map.fastly.net^$important
 @@||ipchicken.com^$important
