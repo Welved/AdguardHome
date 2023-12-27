@@ -60,7 +60,7 @@
 @@||*.uber.com^$important
 @@||*.waze.com^$important
 @@||*.googleapis.com^$important
-@@||clients6.google.com^$important
+@@||*.google.com^$important
 @@||fonts.gstatic.com^$important
 @@||aa.com^$important
 @@||delta.com^$important
@@ -71,11 +71,7 @@
 @@||movieroom.is^$important
 @@||www.recaptcha.net^$important
 @@||mega.nz^$important
-@@||voice.google.com^$important
 @@||auroraoss.com^$important
-@@||accounts.google.com^$important
-@@||play.google.com^$important
-@@||android.clients.google.com^$important
 @@||tailscale.com^$important
 @@||www.quora.com.cdn.cloudflare.net^$important
 @@||reddit.map.fastly.net^$important
