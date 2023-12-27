@@ -10,7 +10,6 @@
 @@||*.xboxlive.com^$important
 @@||*.mojang.com^$important
 @@||*.media-amazon.com^$important
-@@||*.googleapis.com^$important
 @@||*.vidrock2.store^$important
 @@||*.bunnycdn.ru^$important
 @@||*.skillshare.com^$important
@@ -80,7 +79,6 @@
 @@||api-bcb54897.duosecurity.com^$important
 @@||api.xbrowsersync.org^$important
 @@||api.dropboxapi.com^$important
-@@||www.googleapis.com^$important
 @@||cdn.oaistatic.com^$important
 @@||content.delta.com^$important
 @@||cn-geo1.uber.com^$important
