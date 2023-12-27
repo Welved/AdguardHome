@@ -60,6 +60,7 @@
 @@||*.uber.com^$important
 @@||*.clients6.google.com^$important
 @@||*.waze.com^$important
+@@||fonts.gstatic.com^$important
 @@||apis.google.com^$important
 @@||aa.com^$important
 @@||delta.com^$important
