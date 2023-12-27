@@ -58,8 +58,8 @@
 @@||*.quora.com^$important
 @@||*.ubereats.com^$important
 @@||*.uber.com^$important
-@@||*.clients6.google.com^$important
 @@||*.waze.com^$important
+@@||clients6.google.com^$important
 @@||fonts.gstatic.com^$important
 @@||apis.google.com^$important
 @@||aa.com^$important
