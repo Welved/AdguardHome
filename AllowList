@@ -70,7 +70,9 @@
 @@||*.steamserver.net^$important
 @@||*.steamstatic.com^$important
 @@||*.steamcontent.com^$important
+@@||steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com^$important
 @@||steamstore-a.akamaihd.net^$important
+@@||steamcommunity.com^$important
 @@||forums.tomsguide.com^$important
 @@||recoverit.wondershare.com^$important
 @@||www.nextpit.com^$important
@@ -81,7 +83,6 @@
 @@||s3.amazonaws.com^$important
 @@||snapcraft.io^$important
 @@||canonical-lgw01.cdn.snapcraftcontent.com^$important
-@@||steamcommunity.com^$important
 @@||www.howtogeek.com^$important
 @@||www.addictivetips.com^$important
 @@||static1.howtogeekimages.com^$important
