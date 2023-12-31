@@ -6,7 +6,6 @@
 @@||*.disquscdn.com^$important
 @@||*.lttstore.com^$important
 @@||*.apple.com^$important
-@@||*.yeou.app^$important
 @@||*.joinhoney.com^$important
 @@||*.bulbagarden.net^$important
 @@||*.myshopify.com^$important
@@ -78,6 +77,13 @@
 @@||*.steamserver.net^$important
 @@||*.steamstatic.com^$important
 @@||*.steamcontent.com^$important
+@@||stackpath.bootstrapcdn.com^$important
+@@||keepassxc.org^$important
+@@||nexon.net^$important
+@@||nexon.com^$important
+@@||*.nexonstatic.com^$important
+@@||recaptcha.net^$important
+@@||yeou.app^$important
 @@||www.tutorialspoint.com^$important
 @@||www.saintlad.com^$important
 @@||softwareupdate.vmware.com^$important
