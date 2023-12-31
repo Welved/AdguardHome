@@ -78,6 +78,7 @@
 @@||*.steamstatic.com^$important
 @@||*.steamcontent.com^$important
 @@||*.nexonstatic.com^$important
+@@||robinhood.com^$important
 @@||stackpath.bootstrapcdn.com^$important
 @@||keepassxc.org^$important
 @@||nexon.net^$important
