@@ -25,8 +25,6 @@
 @@||*.vidrock2.store^$important
 @@||*.bunnycdn.ru^$important
 @@||*.skillshare.com^$important
-@@||*.trustpilot.com^$important
-@@||*.trustpilot.net^$important
 @@||*.credly.com^$important
 @@||*.githubusercontent.com^$important
 @@||*.mega.co.nz^$important
@@ -42,7 +40,6 @@
 @@||*.wikia.nocookie.net^$important
 @@||*.adultswim.com^$important
 @@||*.in-addr.arpa^$important
-@@||speedtest.net^$important
 @@||*._https.speedtest-dfw.dish-wireless.com.prod.hosts.ooklaserver.net^$important
 @@||*.speedtest.ozarksgo.net.prod.hosts.ooklaserver.net^$important
 @@||*._https.ook-dal-x1.puregig.net.prod.hosts.ooklaserver.net^$important
@@ -81,6 +78,7 @@
 @@||*.steamserver.net^$important
 @@||*.steamstatic.com^$important
 @@||*.steamcontent.com^$important
+@@||speedtest.net^$important
 @@||steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com^$important
 @@||steamstore-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
