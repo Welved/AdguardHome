@@ -1,4 +1,4 @@
-*$denyallow=edu|mil|gov
+*$denyallow=edu|mil|gov|com
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
 ||google-analytics.com^$important
