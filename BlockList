@@ -20,4 +20,7 @@
 ||visualstudio.com^$important
 ||xboxservices.com^$important
 ||amazonaws.com^$important
-||apps.identrust.com^$important
+||identrust.com^$important
+||bootstrapcdn.com^$important
+||jquery.com^$important
+||akamaihd.net^$important
