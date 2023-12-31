@@ -24,4 +24,5 @@
 ||bootstrapcdn.com^$important
 ||jquery.com^$important
 ||akamaihd.net^$important
-||devtools.azureedge.net^$important
+||azureedge.net^$important
+||lencr.org^$important
