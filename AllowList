@@ -78,6 +78,9 @@
 @@||*.steamserver.net^$important
 @@||*.steamstatic.com^$important
 @@||*.steamcontent.com^$important
+@@||www.tutorialspoint.com^$important
+@@||www.saintlad.com^$important
+@@||softwareupdate.vmware.com^$important
 @@||speedtest.net^$important
 @@||steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com^$important
 @@||steamstore-a.akamaihd.net^$important
