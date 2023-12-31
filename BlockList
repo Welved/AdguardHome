@@ -11,7 +11,8 @@
 ||bing.com^$important
 ||windows.com^$important
 ||onenote.net^$important
-||wpad.^$important
+||wpad^$important
+||workgroup^$important
 ||digicert.com^$important
 ||live.com^$important
 ||skype.com^$important
