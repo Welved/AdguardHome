@@ -1,4 +1,4 @@
-*$denyallow=edu|mil|gov|com
+*$denyallow=edu|mil|gov|com|net
 ||google-analytics.com^$important
 ||microsoft.com^$important
 ||microsoft.net^$important
