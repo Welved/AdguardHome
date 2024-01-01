@@ -14,7 +14,6 @@
 @@||*.blackboard*.com^$important
 @@||*.brave.com^$important
 @@||*.dropbox.com^$important
-@@||*.simplelogin.io^$important
 @@||*.safing.io^$important
 @@||*.intercomcdn.com^$important
 @@||*.anthropic.com^$important
@@ -78,6 +77,7 @@
 @@||*.steamstatic.com^$important
 @@||*.steamcontent.com^$important
 @@||*.nexonstatic.com^$important
+@@||simplelogin.io^$important
 @@||robinhood.com^$important
 @@||stackpath.bootstrapcdn.com^$important
 @@||keepassxc.org^$important
