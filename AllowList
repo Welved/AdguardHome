@@ -60,7 +60,6 @@
 @@||*.cloudinary.com^$important
 @@||*.onkakao.net^$important
 @@||*.kakaocdn.net^$important
-@@||*.reddit.com^$important
 @@||*.quora.com^$important
 @@||*.waze.com^$important
 @@||*.my-alfred.com^$important
@@ -71,6 +70,7 @@
 @@||*.steamstatic.com^$important
 @@||*.steamcontent.com^$important
 @@||*.nexonstatic.com^$important
+@@||reddit.com^$important
 @@||joinhoney.com^$important
 @@||simplelogin.io^$important
 @@||robinhood.com^$important
@@ -166,13 +166,12 @@
 @@||user-api.speedtest.net^$important
 @@||www.speedtest.net^$important
 @@||mapi.speedtest.net^$important
-@@||www.redditstatic.com^$important
+@@||reddit*.com^$important
 @@||api.minecraftservices.com^$important
 @@||frame.work^$important
 @@||thecoilmc.com^$important
 @@||aniwave.to^$important
 @@||static.bunnycdn.ru^$important
-@@||styles.redditmedia.com^$important
 @@||vidplay.online^$important
 @@||mcloud.bz^$important
 @@||filemoon.sx^$important
