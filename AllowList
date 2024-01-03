@@ -6,7 +6,6 @@
 @@||*.disquscdn.com^$important
 @@||*.lttstore.com^$important
 @@||*.apple.com^$important
-@@||*.joinhoney.com^$important
 @@||*.bulbagarden.net^$important
 @@||*.myshopify.com^$important
 @@||*.shopify*.com^$important
@@ -74,6 +73,7 @@
 @@||*.steamstatic.com^$important
 @@||*.steamcontent.com^$important
 @@||*.nexonstatic.com^$important
+@@||joinhoney.com^$important
 @@||simplelogin.io^$important
 @@||robinhood.com^$important
 @@||stackpath.bootstrapcdn.com^$important
