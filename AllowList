@@ -107,8 +107,7 @@
 @@||assets-global.website-files.com^$important
 @@||spotify.com^$important
 @@||open.spotifycdn.com^$important
-@@||scdnco.spotify.map.fastly.net^$important
-@@||atc.spotify.map.fastly.net^$important
+@@||spotify.map.fastly.net^$important
 @@||audio-ak-spotify-com.akamaized.net^$important
 @@||api.ipostal1.com^$important
 @@||global.turn.twilio.com^$important
