@@ -1,11 +1,9 @@
 *$denyallow=edu|mil|gov|com|net
 ||googleapis.com^$important
 ||google-analytics.com^$important
-||microsoft.com^$important
-||microsoft.net^$important
+||microsoft.*^$important
 ||windowsupdate.com^$important
-||msftconnecttest.com^$important
-||msftncsi.com^$important
+||msft*.com^$important
 ||msn.com^$important
 ||bing.com^$important
 ||windows.com^$important
