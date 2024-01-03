@@ -40,7 +40,7 @@
 ||fastlylb.net^$important
 ||fastly.net^$important
 ||mozaws.net^$important
-||mozilla.net^$important
+||mozilla.*t^$important
 ||123moviesfree.net^$important
 ||firefox.com^$important
 ||mozgcp.net^$important
