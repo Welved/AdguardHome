@@ -1,4 +1,6 @@
 *$denyallow=edu|mil|gov|com|net
+#/\.+[a-zA-Z]{4,}$/
+#/\.+[a-zA-Z]{-4,}$/
 ||googleapis.com^$important
 ||google-analytics.com^$important
 ||microsoft.*^$important
