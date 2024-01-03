@@ -66,12 +66,9 @@
 @@||*.ubereats.com^$important
 @@||*.uber.com^$important
 @@||*.waze.com^$important
-@@||*.googleapis.com^$important
-@@||*.google.com^$important
 @@||*.my-alfred.com^$important
 @@||*.apkbe.com^$important
 @@||*.dropboxapi.com^$important
-@@||*.scdn.co^$important
 @@||*.steampowered.com^$important
 @@||*.steamserver.net^$important
 @@||*.steamstatic.com^$important
@@ -99,7 +96,6 @@
 @@||cubiclenate.com^$important
 @@||i0.wp.com^$important
 @@||mgba.io^$important
-@@||s3.amazonaws.com^$important
 @@||snapcraft.io^$important
 @@||canonical-lgw01.cdn.snapcraftcontent.com^$important
 @@||www.howtogeek.com^$important
@@ -108,7 +104,6 @@
 @@||dolphin-emu.org^$important
 @@||rouge.support^$important
 @@||secure.ally.com^$important
-@@||amazon.com^$important
 @@||privacy.com^$important
 @@||static.zdassets.com^$important
 @@||assets-global.website-files.com^$important
@@ -266,3 +261,9 @@
 @@||maplelegends.com^$important
 @@||dreamms.gg^$important
 @@||forum.dream.ms^$important
+@@||s3-us-gov-west-1.amazonaws.com^$important
+@@||playc.pro^$important
+@@||dwish.pro^$important
+@@||draplay2.pro^$important
+@@||answers.microsoft.com^$important
+@@||answers-afd.microsoft.com^$important

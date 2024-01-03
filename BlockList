@@ -1,4 +1,5 @@
 *$denyallow=edu|mil|gov|com|net
+||googleapis.com^$important
 ||google-analytics.com^$important
 ||microsoft.com^$important
 ||microsoft.net^$important
@@ -25,3 +26,10 @@
 ||akamaihd.net^$important
 ||azureedge.net^$important
 ||lencr.org^$important
+||google.com^$important
+||amazon.com^$important
+||scdn.co^$important
+||content.delta.com^$important
+||zn06uo1btikvrv0bq-deltacx.siteintercept.qualtrics.com^$important
+||dlt-beacon.dynatrace-managed.com^$important
+||api2.amplitude.com^$important
