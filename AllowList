@@ -62,8 +62,6 @@
 @@||*.kakaocdn.net^$important
 @@||*.reddit.com^$important
 @@||*.quora.com^$important
-@@||*.ubereats.com^$important
-@@||*.uber.com^$important
 @@||*.waze.com^$important
 @@||*.my-alfred.com^$important
 @@||*.apkbe.com^$important
@@ -152,7 +150,6 @@
 @@||api.dropboxapi.com^$important
 @@||cdn.oaistatic.com^$important
 @@||content.delta.com^$important
-@@||cn-geo1.uber.com^$important
 @@||auth0.openai.com^$important
 @@||log.tailscale.io^$important
 @@||www.gstatic.com^$important
