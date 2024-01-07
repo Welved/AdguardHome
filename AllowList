@@ -74,6 +74,7 @@
 @@||*.viki.io^$important
 @@||*.vikiplatform.com^$important
 @@||*.discord.gg^$important
+@@||raspberrypi.com^$important
 @@||delivery.mp.microsoft.com^$important
 @@||update.microsoft.com^$important
 @@||www.microsoft.com^$important
