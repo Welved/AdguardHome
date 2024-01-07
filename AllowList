@@ -74,6 +74,11 @@
 @@||*.viki.io^$important
 @@||*.vikiplatform.com^$important
 @@||*.discord.gg^$important
+@@||rpgtavern.live^$important
+@@||raspberrypi.org^$important
+@@||amazon.com^$important
+@@||delivery.mp.microsoft.com^$important
+@@||update.microsoft.com^$important
 @@||calendarsync-pa.googleapis.com^$important
 @@||www.google.com^$important
 @@||wikipedia.org^$important
