@@ -103,7 +103,6 @@
 @@||robinhood.com^$important
 @@||stackpath.bootstrapcdn.com^$important
 @@||keepassxc.org^$important
-@@||nexon.net^$important
 @@||nexon.com^$important
 @@||recaptcha.net^$important
 @@||yeou.app^$important
@@ -301,3 +300,12 @@
 @@||apis.google.com^$important
 @@||www.googleapis.com^$important
 @@||payments.ubereats.com^$important
+@@||img.veeam.com^$important
+@@||cr-us.nexon.co.kr^$important
+@@||steamcommunity-a.akamaihd.net^$important
+@@||s*.symcb.com^$important
+@@||crl*.digicert.com^$important
+@@||ocsp.digicert.com^$important
+@@||nexon-player-support.dev.ops.nxdc.io^$important
+@@||www.techsupportforum.com^$important
+@@||www.techradar.com^$important

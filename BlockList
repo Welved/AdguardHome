@@ -1,6 +1,7 @@
 *$denyallow=edu|mil|gov|com|net
 #/\.+[a-zA-Z]{4,}$/
 #/\.+[a-zA-Z]{-4,}$/
+||nexon.net^$important
 ||googleapis.com^$important
 ||google-analytics.com^$important
 ||microsoft.*^$important
@@ -46,3 +47,15 @@
 ||revenuecat.com^$important
 ||vzwwo.com^$important
 ||singular.net^$important
+||www.facebook.com^$important
+||www.googletagmanager.com^$important
+||apidata.googleusercontent.com^$important
+||connect.facebook.net^$important
+||ggpht.com^$important
+||googlevideo.com^$important
+||spiceworks.com^$important
+||incapdns.net^$important
+||googleusercontent.com^$important
+||groovypost.com^$important
+||quoracdn.net.cdn.cloudflare.net^$important
+||nexon.co.kr^$important
