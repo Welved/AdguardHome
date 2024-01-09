@@ -1,6 +1,6 @@
 *$denyallow=edu|mil|gov|com|net
-#/\.+[a-zA-Z]{4,}$/
-#/\.+[a-zA-Z]{-4,}$/
+/\.+[a-zA-Z]{4,}$/
+/\.+[a-zA-Z]{-4,}$/
 ||nexon.net^$important
 ||googleapis.com^$important
 ||google-analytics.com^$important
