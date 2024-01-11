@@ -1,6 +1,7 @@
 *$denyallow=edu|mil|gov|com|net
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
+||*-msedge.net^$important
 ||nexon.net^$important
 ||googleapis.com^$important
 ||google-analytics.com^$important
@@ -64,3 +65,15 @@
 ||pubmnet.com^$important
 ||pinterest.com^$important
 ||akamaiedge.net^$important
+||azure.com^$important
+||trafficmanager.net^$important
+||microsoftonline.com^$important
+||1drv.com^$important
+||wac-0003.wac-msedge.net^$important
+||onedscolprdwus03.westus.cloudapp.azure.com^$important
+||events.launchdarkly.com^$important
+||onedscolprdwus07.westus.cloudapp.azure.com^$important
+||dialogflow.com^$important
+||gstatic.com^$important
+||i2.wp.com^$important
+||secure.gravatar.com^$important
