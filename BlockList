@@ -1,4 +1,4 @@
-*$denyallow=edu|mil|gov|
+*$denyallow=edu|mil|gov|com|net
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
 ||*-msedge.net^$important
@@ -76,6 +76,3 @@
 ||dialogflow.com^$important
 ||gstatic.com^$important
 ||i2.wp.com^$important
-||secure.gravatar.com^$client='PG'
-||doubleverify.com^$client='PG'
-||googletagservices.com^$client='PG'
