@@ -21,7 +21,8 @@
 @@||*.media-amazon.com^$important
 @@||*.vidrock2.store^$important
 @@||*.bunnycdn.ru^$important
-@@||*.skillshare.com^$important
+@@||*.skillshare.com^$important@@||code.jquery.com^$important
+@@||vido.fun^$important
 @@||*.credly.com^$important
 @@||*.githubusercontent.com^$important
 @@||*.mega.co.nz^$important
@@ -415,3 +416,5 @@
 @@||123-movies.team^$important
 @@||tv.123-movies.fit^$important
 @@||enterp.online^$important
+@@||code.jquery.com^$important
+@@||vido.fun^$important
