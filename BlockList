@@ -76,6 +76,6 @@
 ||dialogflow.com^$important
 ||gstatic.com^$important
 ||i2.wp.com^$important
-||secure.gravatar.com^$important
-||doubleverify.com^$
-||googletagservices.com^$important
+||secure.gravatar.com^$client='PG'
+||doubleverify.com^$client='PG'
+||googletagservices.com^$client='PG'
