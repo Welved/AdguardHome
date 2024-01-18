@@ -3,8 +3,7 @@
 /\.+[a-zA-Z]{-4,}$/
 ||*-msedge.net^$important
 ||nexon.net^$important
-||googleapis.com^$important
-||google-analytics.com^$important
+||google*.com^$important
 ||microsoft.*^$important
 ||windowsupdate.com^$important
 ||msft*.com^$important
@@ -28,7 +27,6 @@
 ||akamaihd.net^$important
 ||azureedge.net^$important
 ||lencr.org^$important
-||google.com^$important
 ||scdn.co^$important
 ||content.delta.com^$important
 ||zn06uo1btikvrv0bq-deltacx.siteintercept.qualtrics.com^$important
@@ -49,14 +47,10 @@
 ||vzwwo.com^$important
 ||singular.net^$important
 ||www.facebook.com^$important
-||www.googletagmanager.com^$important
-||apidata.googleusercontent.com^$important
 ||connect.facebook.net^$important
 ||ggpht.com^$important
-||googlevideo.com^$important
 ||spiceworks.com^$important
 ||incapdns.net^$important
-||googleusercontent.com^$important
 ||groovypost.com^$important
 ||quoracdn.net.cdn.cloudflare.net^$important
 ||nexon.co.kr^$important
