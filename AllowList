@@ -87,7 +87,7 @@
 @@||*.id.me^$important
 @@||*.login.gov^$important
 @@||*.remotehub.com^$important
-@@||*.varomoney.com^$important
+@@||varomoney.com^$important
 @@||cdn.realpage.com^$important
 @@||www.linkedin.com^$important
 @@||raspberrypi.com^$important
