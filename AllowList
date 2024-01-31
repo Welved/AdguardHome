@@ -86,6 +86,8 @@
 @@||*.bootstrapcdn.com^$important
 @@||*.id.me^$important
 @@||*.login.gov^$important
+@@||*.remotehub.com^$important
+@@||www.linkedin.com^$important
 @@||raspberrypi.com^$important
 @@||delivery.mp.microsoft.com^$important
 @@||update.microsoft.com^$important
