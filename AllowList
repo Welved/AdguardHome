@@ -84,6 +84,7 @@
 @@||*.openwrt.pool.ntp.org^$important
 @@||*.debian.pool.ntp.org^$important
 @@||*.bootstrapcdn.com^$important
+@@||*.id.me^$important
 @@||raspberrypi.com^$important
 @@||delivery.mp.microsoft.com^$important
 @@||update.microsoft.com^$important
