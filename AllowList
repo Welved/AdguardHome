@@ -85,6 +85,7 @@
 @@||*.debian.pool.ntp.org^$important
 @@||*.bootstrapcdn.com^$important
 @@||*.id.me^$important
+@@||*.login.gov^$important
 @@||raspberrypi.com^$important
 @@||delivery.mp.microsoft.com^$important
 @@||update.microsoft.com^$important
