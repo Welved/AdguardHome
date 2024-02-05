@@ -99,7 +99,7 @@
 @@||images.*.com^$important
 @@||images.*.io^$important
 @@||images.*.co^$important
-@@||img.*.org^$important
+@@||img.*.com^$important
 @@||img.*.org^$important
 @@||img.*.net^$important
 @@||img.*.gov^$important
