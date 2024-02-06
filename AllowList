@@ -87,6 +87,8 @@
 @@||*.id.me^$important
 @@||*.login.gov^$important
 @@||*.remotehub.com^$important
+@@||*.uber.com^$important
+@@||*.ubereats.com^$important
 @@||image.*.org^$important
 @@||image.*.net^$important
 @@||image.*.gov^$important
@@ -216,7 +218,6 @@
 @@||www.gstatic.com^$important
 @@||chat.openai.com^$important
 @@||www.kayak.com^$important
-@@||eats.uber.com^$important
 @@||api.lyft.com^$important
 @@||i.ytimg.com^$important
 @@||adguard.com^$important
@@ -327,15 +328,12 @@
 @@||o4505906598641664.ingest.sentry.io^$important
 @@||firebaseinstallations.googleapis.com^$important
 @@||hobbylobby.com^$important
-@@||www.ubereats.com^$important
-@@||auth.uber.com^$important
 @@||d3i4yxtzktqr9n.cloudfront.net^$important
 @@||android.googleapis.com^$important
 @@||voice.googleapis.com^$important
 @@||people-pa.googleapis.com^$important
 @@||apis.google.com^$important
 @@||www.googleapis.com^$important
-@@||payments.ubereats.com^$important
 @@||cr-us.nexon.co.kr^$important
 @@||steamcommunity-a.akamaihd.net^$important
 @@||s*.symcb.com^$important
@@ -392,7 +390,6 @@
 @@||cdn.mos.cms.futurecdn.net^$important
 @@||royals.ms^$important
 @@||frameworkmarketplace.cdn.prismic.io^$important
-@@||cn-geo1.uber.com^$important
 @@||rptl.io^$important
 @@||nebula.tv^$important
 @@||nebula.app^$important
@@ -503,7 +500,7 @@
 @@||payments.google.com^$important
 @@||flatpak.org^$important
 @@||googlestore.narvar.com^$important
-@@||help.uber.com^$important@@||varo-prod-account-statement-document.s3.us-west-2.amazonaws.com^$important
+@@||varo-prod-account-statement-document.s3.us-west-2.amazonaws.com^$important
 @@||smaug-public.stashinvest.dmz.stsh.io^$important
 @@||stsh-ue2-prod-smaug-inv-ext-ipv6-1981484990.us-east-2.elb.amazonaws.com^$important
 @@||www.lendingclub.com^$important
@@ -517,7 +514,6 @@
 @@||payments.google.com^$important
 @@||flatpak.org^$important
 @@||googlestore.narvar.com^$important
-@@||help.uber.com^$important
 @@||watch.plex.tv^$important
 @@||www.whattowatch.com^$important
 @@||roku.com^$important
