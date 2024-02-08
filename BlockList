@@ -2,6 +2,7 @@
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
 ||*-msedge.net^$important
+||*.trustarc.com^$important
 ||nexon.net^$important
 ||google*.com^$important
 ||microsoft.*^$important
