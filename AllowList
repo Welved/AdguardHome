@@ -559,3 +559,7 @@
 @@||mt*.googleapis.com^$important
 @@||sticker-pa.googleapis.com^$important
 @@||tenor.googleapis.com^$important
+@@||file.io^$important
+@@||fastupload.io^$important
+@@||config.toto.zipoapps.com^$important
+@@||ubuntuforums.org^$important
