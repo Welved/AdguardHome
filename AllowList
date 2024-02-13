@@ -128,9 +128,9 @@
 @@||img.*.gov^$important
 @@||img.*.io^$important
 @@||img.*.co^$important
+@@||*.123movies*.*^$important
+@@||*.123movies.*^$important
 @@||airalo.web.emea-1.jumio.ai^$important
-@@||123movies.house^$important
-@@||123movies.beer^$important
 @@||watchmovies.meme^$important
 @@||ww8.soap2dayhd.co^$important
 @@||doc.moplay.org^$important
@@ -510,7 +510,6 @@
 @@||ppa.ablaze.one^$important
 @@||floorp.app^$important
 @@||mozilla.org^$important
-@@||ww2.123moviesfree.net^$important
 @@||doc.viload.org^$important
 @@||www.netflix.com^$important
 @@||123-movies.team^$important
@@ -599,13 +598,11 @@
 @@||roku.com^$important
 @@||123-movies.host^$important
 @@||movie.directv.pro^$important
-@@||123moviesfree6.bar^$important
 @@||watch.plex.tv^$important
 @@||www.whattowatch.com^$important
 @@||roku.com^$important
 @@||123-movies.host^$important
 @@||movie.directv.pro^$important
-@@||123moviesfree6.bar^$important
 @@||zoom.earth^$important
 @@||www.cntraveler.com^$important
 @@||cdn.cookielaw.org^$important
@@ -625,7 +622,6 @@
 @@||tb-static.uber.com^$important
 @@||ssl.gstatic.com^$important
 @@||oauth2.googleapis.com^$important
-@@||123moviesfree6.buzz^$important
 @@||mt*.googleapis.com^$important
 @@||sticker-pa.googleapis.com^$important
 @@||tenor.googleapis.com^$important
