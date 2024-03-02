@@ -285,6 +285,7 @@
 @@||*.123movies*.*^$important
 @@||*.123movies.*^$important
 @@||*.crucial.com^$important
+@@||*.vmware.com^$important
 @@||image.*.org^$important
 @@||image.*.net^$important
 @@||image.*.gov^$important
@@ -400,7 +401,6 @@
 @@||yeou.app^$important
 @@||www.tutorialspoint.com^$important
 @@||www.saintlad.com^$important
-@@||softwareupdate.vmware.com^$important
 @@||speedtest.net^$important
 @@||steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com^$important
 @@||steamstore-a.akamaihd.net^$important
@@ -593,7 +593,6 @@
 @@||nexon-player-support.dev.ops.nxdc.io^$important
 @@||www.techsupportforum.com^$important
 @@||www.techradar.com^$important
-@@||communities.vmware.com^$important
 @@||stackoverflow.email^$important
 @@||mod-file.dn.nexoncdn.co.kr^$important
 @@||sslnexon.ktcdn.co.kr^$important
@@ -917,7 +916,6 @@
 @@||yeou.app^$important
 @@||www.tutorialspoint.com^$important
 @@||www.saintlad.com^$important
-@@||softwareupdate.vmware.com^$important
 @@||speedtest.net^$important
 @@||steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com^$important
 @@||steamstore-a.akamaihd.net^$important
@@ -1110,7 +1108,6 @@
 @@||nexon-player-support.dev.ops.nxdc.io^$important
 @@||www.techsupportforum.com^$important
 @@||www.techradar.com^$important
-@@||communities.vmware.com^$important
 @@||stackoverflow.email^$important
 @@||mod-file.dn.nexoncdn.co.kr^$important
 @@||sslnexon.ktcdn.co.kr^$important
@@ -1321,7 +1318,6 @@
 @@||storj.io^$important
 @@||pdanet.co^$important
 @@||cloud.google.com^$important
-@@||service.cloudvmwareengine.google^$important
 @@||google.com^$important
 @@||www.zdnet.com^$important
 @@||adguard-dns.io^$important
