@@ -261,6 +261,7 @@ rr*---sn-*.googlevideo.com^$important
 @@||*.doodcdn.co^$important
 @@||*.gnome.org^$important
 @@||*.photoprism.app^$important
+@@||*.royals.ms^$important
 @@||image.*.org^$important
 @@||image.*.net^$important
 @@||image.*.gov^$important
@@ -299,24 +300,6 @@ rr*---sn-*.googlevideo.com^$important
 @@||self.inc^$important
 @@||voe.sx^$important
 @@||firestore.googleapis.com^$important
-@@||image.*.org^$important
-@@||image.*.net^$important
-@@||image.*.gov^$important
-@@||image.*.io^$important
-@@||image.*.co^$important
-@@||image.*.com^$important
-@@||images.*.org^$important
-@@||images.*.net^$important
-@@||images.*.gov^$important
-@@||images.*.com^$important
-@@||images.*.io^$important
-@@||images.*.co^$important
-@@||img.*.com^$important
-@@||img.*.org^$important
-@@||img.*.net^$important
-@@||img.*.gov^$important
-@@||img.*.io^$important
-@@||img.*.co^$important
 @@||airalo.web.emea-1.jumio.ai^$important
 @@||watchmovies.meme^$important
 @@||ww8.soap2dayhd.co^$important
@@ -651,7 +634,6 @@ rr*---sn-*.googlevideo.com^$important
 @@||download2.easeus.com^$important
 @@||www.tomshardware.com^$important
 @@||cdn.mos.cms.futurecdn.net^$important
-@@||royals.ms^$important
 @@||frameworkmarketplace.cdn.prismic.io^$important
 @@||rptl.io^$important
 @@||nebula.tv^$important
@@ -742,7 +724,6 @@ rr*---sn-*.googlevideo.com^$important
 @@||www.texas.gov^$important
 @@||txapps.texas.gov^$important
 @@||txt.texas.gov^$important
-@@||mapleroyal.ms^$important
 @@||calyxinstitute.org^$important
 @@||www.kroger.com^$important
 @@||e8023.a.akamaiedge.net^$important
@@ -1164,7 +1145,6 @@ rr*---sn-*.googlevideo.com^$important
 @@||download2.easeus.com^$important
 @@||www.tomshardware.com^$important
 @@||cdn.mos.cms.futurecdn.net^$important
-@@||royals.ms^$important
 @@||frameworkmarketplace.cdn.prismic.io^$important
 @@||rptl.io^$important
 @@||nebula.tv^$important
