@@ -83,7 +83,6 @@ rr*---sn-*.googlevideo.com^$important
 @@||*.discord.gg^$important
 @@||*.office.com^$important
 @@||*.office.net^$important
-@@||*.microsoft.com^$important
 @@||*.live.com^$important
 @@||*.dsc*.akamaiedge.net^$important
 @@||*.*fx.ms^$important
@@ -207,7 +206,6 @@ rr*---sn-*.googlevideo.com^$important
 @@||*.discord.gg^$important
 @@||*.office.com^$important
 @@||*.office.net^$important
-@@||*.microsoft.com^$important
 @@||*.live.com^$important
 @@||*.dsc*.akamaiedge.net^$important
 @@||*.*fx.ms^$important
@@ -363,16 +361,10 @@ rr*---sn-*.googlevideo.com^$important
 @@||cdn.realpage.com^$important
 @@||www.linkedin.com^$important
 @@||raspberrypi.com^$important
-@@||delivery.mp.microsoft.com^$important
-@@||update.microsoft.com^$important
-@@||www.microsoft.com^$important
-@@||answers.microsoft.com^$important
-@@||answers-afd.microsoft.com^$important
 @@||resman.blob.core.windows.net^$important
 @@||client.wns.windows.com^$important
 @@||ctldl.windowsupdate.com^$important
 @@||grayjay.app^$important
-@@||cxcs.microsoft.net^$important
 @@||rpgtavern.live^$important
 @@||raspberrypi.org^$important
 @@||amazon.com^$important
@@ -624,7 +616,6 @@ rr*---sn-*.googlevideo.com^$important
 @@||tsp.gov^$important
 @@||web.simplelogin.co^$important
 @@||d207qo6t8lp69n.cloudfront.net^$important
-@@||login.microsoftonline.com^$important
 @@||clients6.google.com^$important
 @@||api.onedrive.com^$important
 @@||cognito-identity.us-east-1.amazonaws.com^$important
@@ -876,16 +867,10 @@ rr*---sn-*.googlevideo.com^$important
 @@||cdn.realpage.com^$important
 @@||www.linkedin.com^$important
 @@||raspberrypi.com^$important
-@@||delivery.mp.microsoft.com^$important
-@@||update.microsoft.com^$important
-@@||www.microsoft.com^$important
-@@||answers.microsoft.com^$important
-@@||answers-afd.microsoft.com^$important
 @@||resman.blob.core.windows.net^$important
 @@||client.wns.windows.com^$important
 @@||ctldl.windowsupdate.com^$important
 @@||grayjay.app^$important
-@@||cxcs.microsoft.net^$important
 @@||rpgtavern.live^$important
 @@||raspberrypi.org^$important
 @@||amazon.com^$important
@@ -1135,7 +1120,6 @@ rr*---sn-*.googlevideo.com^$important
 @@||tsp.gov^$important
 @@||web.simplelogin.co^$important
 @@||d207qo6t8lp69n.cloudfront.net^$important
-@@||login.microsoftonline.com^$important
 @@||clients6.google.com^$important
 @@||api.onedrive.com^$important
 @@||cognito-identity.us-east-1.amazonaws.com^$important
