@@ -291,6 +291,8 @@
 @@||*.united.com^$important
 @@||*.uta.edu^$important
 @@||*.bbystatic.com^$important
+@@||*.lifewire.com^$important
+@@||*.zencdn.net^$important
 @@||image.*.org^$important
 @@||image.*.net^$important
 @@||image.*.gov^$important
@@ -1457,3 +1459,4 @@
 @@||lmg.gg^$important
 @@||smart.link^$important
 @@||lora-alliance.org^$important
+@@||public-dns.info^$important
