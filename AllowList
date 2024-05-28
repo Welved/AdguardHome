@@ -751,7 +751,7 @@
 @@||calyxinstitute.org^$important
 @@||www.kroger.com^$important
 @@||e8023.a.akamaiedge.net^$important
-@@||www.walmart.com^$important
+@@||*.walmart.com^$important
 @@||i*.walmartimages.com^$important
 @@||varo-prod-account-statement-document.s3.us-west-2.amazonaws.com^$important
 @@||smaug-public.stashinvest.dmz.stsh.io^$important
