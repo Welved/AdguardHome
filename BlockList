@@ -1,4 +1,4 @@
-#*$denyallow=edu|mil|gov|com|net
+#*$denyallow=edu|mil|gov|com|net|wiki
 /\.+[a-zA-Z]{4,}$/
 /\.+[a-zA-Z]{-4,}$/
 ||*-msedge.net^$important
