@@ -117,7 +117,6 @@
 @@||*.gitlab.io^$important
 @@||*.starlink.com^$important
 @@||*.getmonero.org^$important
-@@||*.realvnc.com^$important
 @@||*.hackster.io^$important
 @@||*.hackster-cdn.online^$important
 @@||*.wikimedia.org^$important
@@ -240,7 +239,6 @@
 @@||*.gitlab.io^$important
 @@||*.starlink.com^$important
 @@||*.getmonero.org^$important
-@@||*.realvnc.com^$important
 @@||*.hackster.io^$important
 @@||*.hackster-cdn.online^$important
 @@||*.wikimedia.org^$important
