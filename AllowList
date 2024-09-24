@@ -1,3 +1,7 @@
+@@||*.xboxservices.com^$important
+@@||*.xbox.com^$important
+@@||*.xboxab.com^$important
+@@||*.xboxlive.com^$important
 @@||rr*---sn-*.googlevideo.com^$important
 @@||rr*---sn-*.gvt1.com^$important
 @@||rr*---sn-*.googlevideo.com^$important
@@ -22,7 +26,6 @@
 @@||*.safing.io^$important
 @@||*.intercomcdn.com^$important
 @@||*.anthropic.com^$important
-@@||*.xboxlive.com^$important
 @@||*.mojang.com^$important
 @@||*.media-amazon.com^$important
 @@||*.vidrock2.store^$important
@@ -144,7 +147,6 @@
 @@||*.safing.io^$important
 @@||*.intercomcdn.com^$important
 @@||*.anthropic.com^$important
-@@||*.xboxlive.com^$important
 @@||*.mojang.com^$important
 @@||*.media-amazon.com^$important
 @@||*.vidrock2.store^$important
@@ -1578,3 +1580,12 @@
 @@||cdn.tmobile.com^$important
 @@||d1erhn8sljv386.cloudfront.net^$important
 @@||s-part-0029.t-0009.t-msedge.net^$important
+@@||ground.news^$important
+@@||www.history.navy.mil^$important
+@@||www.funkwhale.audio^$important
+@@||www.digikey.com^$important
+@@||www.newark.com^$important
+@@||www.mouser.com^$important
+@@||download.windowsupdate.com^$important
+@@||fd.api.iris.microsoft.com^$important
+@@||pti.store.microsoft.com^$important
