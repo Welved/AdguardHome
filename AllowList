@@ -1,10 +1,15 @@
+@@||amazonaws.com^$important
+@@||speedtest.net^$important
+@@||speedtest.dal1.*.prod.hosts.ooklaserver.net^$important
+@@||speedtest-dfw.*.prod.hosts.ooklaserver.net^$important
+@@||speedtest.dal.*.prod.hosts.ooklaserver.net^$important
+@@||*.jextream.net^$important
 @@||*.xboxservices.com^$important
 @@||*.xbox.com^$important
 @@||*.xboxab.com^$important
 @@||*.xboxlive.com^$important
 @@||rr*---sn-*.googlevideo.com^$important
 @@||rr*---sn-*.gvt1.com^$important
-@@||rr*---sn-*.googlevideo.com^$important
 @@||i*.walmartimages.com^$important
 @@||q*.cf2.quoracdn.net^$important
 @@||s*.symcb.com^$important
@@ -29,7 +34,8 @@
 @@||*.media-amazon.com^$important
 @@||*.vidrock2.store^$important
 @@||*.bunnycdn.ru^$important
-@@||*.skillshare.com^$important@@||code.jquery.com^$important
+@@||*.skillshare.com^$important
+@@||code.jquery.com^$important
 @@||vido.fun^$important
 @@||*.credly.com^$important
 @@||*.githubusercontent.com^$important
@@ -46,24 +52,30 @@
 @@||*.wikia.nocookie.net^$important
 @@||*.adultswim.com^$important
 @@||*.in-addr.arpa^$important
-@@||*._https.speedtest-dfw.dish-wireless.com.prod.hosts.ooklaserver.net^$important
-@@||*.speedtest.ozarksgo.net.prod.hosts.ooklaserver.net^$important
-@@||*._https.ook-dal-x1.puregig.net.prod.hosts.ooklaserver.net^$important
+@@||* .ook-dal-x1.puregig.net.prod.hosts.ooklaserver.net^$important
 @@||*.puregig.net.prod.hosts.ooklaserver.net^$important
 @@||*.dal.hivelocity.net.prod.hosts.ooklaserver.net^$important
 @@||*.dish-wireless.com.prod.hosts.ooklaserver.net^$important
-@@||*.tx.speedtest.frontier.com^$important
 @@||*.dal1.nitelusa.net.prod.hosts.ooklaserver.net^$important
-@@||*.speedtest.windstream.net^$important
 @@||*.emiliauhh.com.prod.hosts.ooklaserver.net^$important
 @@||*.cabospeed.com^$important
-@@||*._https.speedtest.dal.hivelocity.net.prod.hosts.ooklaserver.net^$important
-@@||*._https.dallas.tx.speedtest.frontier.com^$important
-@@||*._https.speedtest.dal1.nitelusa.net.prod.hosts.ooklaserver.net^$important
-@@||*._https.dal.emiliauhh.com.prod.hosts.ooklaserver.net^$important
-@@||*._https.dallas02.speedtest.windstream.net^$important
-@@||*._https.spt01ftwotx.ftwo.tx.charter.com^$important
-@@||*._https.dallas1.cabospeed.com^$important
+@@||www.msftncsi.com^$important
+@@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
+@@||www.msftconnecttest.com^$important
+@@||www.bbc.com^$important
+@@||googlehosted.l.googleusercontent.com^$important
+@@||www.theguardian.com^$important
+@@||*.jextream.net^$important
+@@||www.msftncsi.com^$important
+@@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
+@@||www.msftconnecttest.com^$important
+@@||www.bbc.com^$important
+@@||googlehosted.l.googleusercontent.com^$important
+@@||www.theguardian.com^$important
+@@||*.jextream.net^$important
+@@||* .dal.emiliauhh.com.prod.hosts.ooklaserver.net^$important
+@@||* .spt01ftwotx.ftwo.tx.charter.com^$important
+@@||* .dallas1.cabospeed.com^$important
 @@||*.tailscale.com^$important
 @@||*.g5dxm.com^$important
 @@||*.cloudinary.com^$important
@@ -167,24 +179,16 @@
 @@||*.wikia.nocookie.net^$important
 @@||*.adultswim.com^$important
 @@||*.in-addr.arpa^$important
-@@||*._https.speedtest-dfw.dish-wireless.com.prod.hosts.ooklaserver.net^$important
-@@||*.speedtest.ozarksgo.net.prod.hosts.ooklaserver.net^$important
-@@||*._https.ook-dal-x1.puregig.net.prod.hosts.ooklaserver.net^$important
+@@||* .ook-dal-x1.puregig.net.prod.hosts.ooklaserver.net^$important
 @@||*.puregig.net.prod.hosts.ooklaserver.net^$important
 @@||*.dal.hivelocity.net.prod.hosts.ooklaserver.net^$important
 @@||*.dish-wireless.com.prod.hosts.ooklaserver.net^$important
-@@||*.tx.speedtest.frontier.com^$important
 @@||*.dal1.nitelusa.net.prod.hosts.ooklaserver.net^$important
-@@||*.speedtest.windstream.net^$important
 @@||*.emiliauhh.com.prod.hosts.ooklaserver.net^$important
 @@||*.cabospeed.com^$important
-@@||*._https.speedtest.dal.hivelocity.net.prod.hosts.ooklaserver.net^$important
-@@||*._https.dallas.tx.speedtest.frontier.com^$important
-@@||*._https.speedtest.dal1.nitelusa.net.prod.hosts.ooklaserver.net^$important
-@@||*._https.dal.emiliauhh.com.prod.hosts.ooklaserver.net^$important
-@@||*._https.dallas02.speedtest.windstream.net^$important
-@@||*._https.spt01ftwotx.ftwo.tx.charter.com^$important
-@@||*._https.dallas1.cabospeed.com^$important
+@@||*.dal.emiliauhh.com.prod.hosts.ooklaserver.net^$important
+@@||*.spt01ftwotx.ftwo.tx.charter.com^$important
+@@||*.dallas1.cabospeed.com^$important
 @@||*.tailscale.com^$important
 @@||*.g5dxm.com^$important
 @@||*.cloudinary.com^$important
@@ -364,7 +368,6 @@
 @@||firestore.googleapis.com^$important
 @@||insight.dcrdata.decred.org^$important
 @@||horizon.stellar.org^$important
-@@||stellar002-prd-horizon2-1739400995.us-east-1.elb.amazonaws.com^$important
 @@||youtube-ui.l.google.com^$important
 @@||api.tzkt.io^$important
 @@||api.ramp.network^$important
@@ -433,8 +436,6 @@
 @@||yeou.app^$important
 @@||www.tutorialspoint.com^$important
 @@||www.saintlad.com^$important
-@@||speedtest.net^$important
-@@||steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com^$important
 @@||steamstore-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
 @@||forums.tomsguide.com^$important
@@ -511,9 +512,6 @@
 @@||gmail.com^$important
 @@||claude.ai^$important
 @@||kakao.com^$important
-@@||user-api.speedtest.net^$important
-@@||www.speedtest.net^$important
-@@||mapi.speedtest.net^$important
 @@||reddit*.com^$important
 @@||api.minecraftservices.com^$important
 @@||frame.work^$important
@@ -599,7 +597,6 @@
 @@||maplelegends.com^$important
 @@||dreamms.gg^$important
 @@||forum.dream.ms^$important
-@@||s3-us-gov-west-1.amazonaws.com^$important
 @@||playc.pro^$important
 @@||dwish.pro^$important
 @@||draplay2.pro^$important
@@ -632,7 +629,6 @@
 @@||fonts.googleapis.com^$important
 @@||translate.google.com^$important
 @@||buyee.jp^$important
-@@||s3.ap-northeast-1.amazonaws.com^$important
 @@||res.cdn.office.net^$important
 @@||onedrive.live.com^$important
 @@||gamesadda.in^$important
@@ -645,7 +641,6 @@
 @@||demdex.net^$important
 @@||ajax.googleapis.com^$important
 @@||d32ijn7u0aqfv4.cloudfront.net^$important
-@@||s3-eu-west-1.amazonaws.com^$important
 @@||online-metrix.net^$important
 @@||cdn.auth0.com^$important
 @@||xtrapath*.izatcloud.net^$important
@@ -662,8 +657,6 @@
 @@||d207qo6t8lp69n.cloudfront.net^$important
 @@||clients6.google.com^$important
 @@||api.onedrive.com^$important
-@@||cognito-identity.us-east-1.amazonaws.com^$important
-@@||cognito-idp.us-east-1.amazonaws.com^$important
 @@||balena.io^$important
 @@||down.easeus.com^$important
 @@||download2.easeus.com^$important
@@ -690,8 +683,6 @@
 @@||download.mozilla.org^$important
 @@||chrome.google.com^$important
 @@||chromewebstore.google.com^$important
-@@||wwwnaturalreaderscom.s3.amazonaws.com^$important
-@@||2poo4vxwjc.execute-api.us-east-1.amazonaws.com^$important
 @@||cdn-fastly.obsproject.com^$important
 @@||mega.io^$important
 @@||kdenlive.org^$important
@@ -699,7 +690,6 @@
 @@||download-installer.cdn.mozilla.net^$important
 @@||www.videolan.org^$important
 @@||d3e54v103j8qbb.cloudfront.net^$important
-@@||descript-public.s3.us-west-2.amazonaws.com^$important
 @@||obsidian.md^$important
 @@||thunderbird.net^$important
 @@||addons.mozilla.org^$important
@@ -727,7 +717,6 @@
 @@||d2znr2yi078d75.cloudfront.net^$important
 @@||usebottles.com^$important
 @@||bigdipper.live^$important
-@@||go-updater-1830831421.us-west-2.elb.amazonaws.com^$important
 @@||jwplayer-dualstack.map.fastly.net^$important
 @@||9animetv.to^$important
 @@||rapid-cloud.co^$important
@@ -749,13 +738,11 @@
 @@||ubuntuhandbook.org^$important
 @@||maps.gstatic.com^$important
 @@||typography.doordash.com^$important
-@@||call2recycle.s3.amazonaws.com^$important
 @@||www.wikihow.com^$important
 @@||www.homedepot.com^$important
 @@||www.ally.com^$important
 @@||cs-cdn.realpage.com^$important
 @@||cdn.activebuilding.com^$important
-@@||s3.amazonaws.com^$important
 @@||www.texas.gov^$important
 @@||txapps.texas.gov^$important
 @@||txt.texas.gov^$important
@@ -764,9 +751,7 @@
 @@||e8023.a.akamaiedge.net^$important
 @@||*.walmart.com^$important
 @@||i*.walmartimages.com^$important
-@@||varo-prod-account-statement-document.s3.us-west-2.amazonaws.com^$important
 @@||smaug-public.stashinvest.dmz.stsh.io^$important
-@@||stsh-ue2-prod-smaug-inv-ext-ipv6-1981484990.us-east-2.elb.amazonaws.com^$important
 @@||www.lendingclub.com^$important
 @@||static.lendingclub.com^$important
 @@||store.google.com^$important
@@ -778,9 +763,7 @@
 @@||payments.google.com^$important
 @@||flatpak.org^$important
 @@||googlestore.narvar.com^$important
-@@||varo-prod-account-statement-document.s3.us-west-2.amazonaws.com^$important
 @@||smaug-public.stashinvest.dmz.stsh.io^$important
-@@||stsh-ue2-prod-smaug-inv-ext-ipv6-1981484990.us-east-2.elb.amazonaws.com^$important
 @@||www.lendingclub.com^$important
 @@||static.lendingclub.com^$important
 @@||store.google.com^$important
@@ -870,7 +853,6 @@
 @@||d38dn05f0v5itl.cloudfront.net^$important
 @@||insight.dcrdata.decred.org^$important
 @@||horizon.stellar.org^$important
-@@||stellar002-prd-horizon2-1739400995.us-east-1.elb.amazonaws.com^$important
 @@||youtube-ui.l.google.com^$important
 @@||api.tzkt.io^$important
 @@||api.ramp.network^$important
@@ -939,8 +921,6 @@
 @@||yeou.app^$important
 @@||www.tutorialspoint.com^$important
 @@||www.saintlad.com^$important
-@@||speedtest.net^$important
-@@||steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com^$important
 @@||steamstore-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
 @@||forums.tomsguide.com^$important
@@ -1017,9 +997,6 @@
 @@||gmail.com^$important
 @@||claude.ai^$important
 @@||kakao.com^$important
-@@||user-api.speedtest.net^$important
-@@||www.speedtest.net^$important
-@@||mapi.speedtest.net^$important
 @@||reddit*.com^$important
 @@||api.minecraftservices.com^$important
 @@||frame.work^$important
@@ -1105,7 +1082,6 @@
 @@||maplelegends.com^$important
 @@||dreamms.gg^$important
 @@||forum.dream.ms^$important
-@@||s3-us-gov-west-1.amazonaws.com^$important
 @@||playc.pro^$important
 @@||dwish.pro^$important
 @@||draplay2.pro^$important
@@ -1136,7 +1112,6 @@
 @@||fonts.googleapis.com^$important
 @@||translate.google.com^$important
 @@||buyee.jp^$important
-@@||s3.ap-northeast-1.amazonaws.com^$important
 @@||res.cdn.office.net^$important
 @@||onedrive.live.com^$important
 @@||gamesadda.in^$important
@@ -1149,7 +1124,6 @@
 @@||demdex.net^$important
 @@||ajax.googleapis.com^$important
 @@||d32ijn7u0aqfv4.cloudfront.net^$important
-@@||s3-eu-west-1.amazonaws.com^$important
 @@||online-metrix.net^$important
 @@||cdn.auth0.com^$important
 @@||xtrapath*.izatcloud.net^$important
@@ -1166,8 +1140,6 @@
 @@||d207qo6t8lp69n.cloudfront.net^$important
 @@||clients6.google.com^$important
 @@||api.onedrive.com^$important
-@@||cognito-identity.us-east-1.amazonaws.com^$important
-@@||cognito-idp.us-east-1.amazonaws.com^$important
 @@||balena.io^$important
 @@||down.easeus.com^$important
 @@||download2.easeus.com^$important
@@ -1194,8 +1166,6 @@
 @@||download.mozilla.org^$important
 @@||chrome.google.com^$important
 @@||chromewebstore.google.com^$important
-@@||wwwnaturalreaderscom.s3.amazonaws.com^$important
-@@||2poo4vxwjc.execute-api.us-east-1.amazonaws.com^$important
 @@||cdn-fastly.obsproject.com^$important
 @@||mega.io^$important
 @@||kdenlive.org^$important
@@ -1203,7 +1173,6 @@
 @@||download-installer.cdn.mozilla.net^$important
 @@||www.videolan.org^$important
 @@||d3e54v103j8qbb.cloudfront.net^$important
-@@||descript-public.s3.us-west-2.amazonaws.com^$important
 @@||obsidian.md^$important
 @@||thunderbird.net^$important
 @@||addons.mozilla.org^$important
@@ -1231,7 +1200,6 @@
 @@||d2znr2yi078d75.cloudfront.net^$important
 @@||usebottles.com^$important
 @@||bigdipper.live^$important
-@@||go-updater-1830831421.us-west-2.elb.amazonaws.com^$important
 @@||jwplayer-dualstack.map.fastly.net^$important
 @@||9animetv.to^$important
 @@||rapid-cloud.co^$important
@@ -1252,13 +1220,11 @@
 @@||ubuntuhandbook.org^$important
 @@||maps.gstatic.com^$important
 @@||typography.doordash.com^$important
-@@||call2recycle.s3.amazonaws.com^$important
 @@||www.wikihow.com^$important
 @@||www.homedepot.com^$important
 @@||www.ally.com^$important
 @@||cs-cdn.realpage.com^$important
 @@||cdn.activebuilding.com^$important
-@@||s3.amazonaws.com^$important
 @@||www.texas.gov^$important
 @@||txapps.texas.gov^$important
 @@||txt.texas.gov^$important
@@ -1267,9 +1233,7 @@
 @@||www.kroger.com^$important
 @@||e8023.a.akamaiedge.net^$important
 @@||www.walmart.com^$important
-@@||varo-prod-account-statement-document.s3.us-west-2.amazonaws.com^$important
 @@||smaug-public.stashinvest.dmz.stsh.io^$important
-@@||stsh-ue2-prod-smaug-inv-ext-ipv6-1981484990.us-east-2.elb.amazonaws.com^$important
 @@||www.lendingclub.com^$important
 @@||static.lendingclub.com^$important
 @@||store.google.com^$important
@@ -1281,9 +1245,7 @@
 @@||payments.google.com^$important
 @@||flatpak.org^$important
 @@||googlestore.narvar.com^$important
-@@||varo-prod-account-statement-document.s3.us-west-2.amazonaws.com^$important
 @@||smaug-public.stashinvest.dmz.stsh.io^$important
-@@||stsh-ue2-prod-smaug-inv-ext-ipv6-1981484990.us-east-2.elb.amazonaws.com^$important
 @@||www.lendingclub.com^$important
 @@||static.lendingclub.com^$important
 @@||store.google.com^$important
@@ -1381,13 +1343,13 @@
 @@||playembed.online^$important
 @@||e68676.x.akamaiedge.net^$important
 @@||hosting.gitbook.io^$important
-@@||prodextdefblue-be9epwf86ra-011431b53d8e1adf.elb.us-east-1.amazonaws.com^$important
 @@||royal.ms^$important
 @@||d3koqshax83fsx.cloudfront.net^$important
 @@||lmn-lax-k1.ep.section.io^$important
 @@||www.webdavsystem.com^$important
 @@||ciscobinary.openh264.org^$important
-@@||android-x86.org^$important@@||deviceintegritytokens-pa.googleapis.com^$important
+@@||android-x86.org^$important
+@@||deviceintegritytokens-pa.googleapis.com^$important
 @@||nearbysharing-pa.googleapis.com^$important
 @@||play-fe.googleapis.com^$important
 @@||digitalassetlinks.googleapis.com^$important
@@ -1420,7 +1382,6 @@
 @@||cdn.ampproject.org^$important
 @@||amzn.to^$important
 @@||www.openstreetmap.org^$important
-@@||m1-production-documents.s3.us-east-1.amazonaws.com^$important
 @@||vv.dramacool.sr^$important
 @@||dramacool.ba^$important
 @@||idme.page.link^$important
@@ -1474,7 +1435,6 @@
 @@||cdn.getshogun.com^$important
 @@||cdn.richpanel.com^$important
 @@||assets.website-files.com^$important
-@@||chaingpt-launchpad.s3.us-east-2.amazonaws.com^$important
 @@||map.hearthcraft.net^$important
 @@||d3v0px0pttie1i.cloudfront.net^$important
 @@||southcentralus1-0.pushnp.svc.ms^$important
@@ -1499,7 +1459,6 @@
 @@||genesis.minecraft.best^$important
 @@||willys.zone^$important
 @@||haycube.net^$important
-@@||curseforge-servers-assets.s3.eu-west-2.amazonaws.com^$important
 @@||southcentralus0-2.pushnp.svc.ms^$important
 @@||i9.ytimg.com^$important
 @@||code.visualstudio.com^$important
@@ -1592,9 +1551,5 @@
 @@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
 @@||www.msftconnecttest.com^$important
 @@||www.bbc.com^$important
-@@||brave-production-proxy-238320562.us-west-2.elb.amazonaws.com^$important
 @@||googlehosted.l.googleusercontent.com^$important
 @@||www.theguardian.com^$important
-@@||*.jextream.net^$important
-@@||cognito-idp.us-east-2.amazonaws.com^$important
-@@||we5gbhv7zbfllkkvqgumiyyvyy.appsync-api.us-east-2.amazonaws.com^$important
