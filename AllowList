@@ -1589,3 +1589,13 @@
 @@||download.windowsupdate.com^$important
 @@||fd.api.iris.microsoft.com^$important
 @@||pti.store.microsoft.com^$important
+@@||www.msftncsi.com^$important
+@@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
+@@||www.msftconnecttest.com^$important
+@@||www.bbc.com^$important
+@@||brave-production-proxy-238320562.us-west-2.elb.amazonaws.com^$important
+@@||googlehosted.l.googleusercontent.com^$important
+@@||www.theguardian.com^$important
+@@||*.jextream.net^$important
+@@||cognito-idp.us-east-2.amazonaws.com^$important
+@@||we5gbhv7zbfllkkvqgumiyyvyy.appsync-api.us-east-2.amazonaws.com^$important
