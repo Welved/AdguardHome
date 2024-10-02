@@ -3,6 +3,7 @@
 @@||fastly.net^$important
 @@||speedtest.net^$important
 @@||ooklaserver.net^$important
+@@||cloudfront.net^$important
 @@||*.progressive.com^$important
 @@||*.progressivedirect.com^$important
 @@||*.jextream.net^$important
@@ -55,19 +56,7 @@
 @@||*.adultswim.com^$important
 @@||*.in-addr.arpa^$important
 @@||*.cabospeed.com^$important
-@@||www.msftncsi.com^$important
-@@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
-@@||www.msftconnecttest.com^$important
-@@||www.bbc.com^$important
-@@||googlehosted.l.googleusercontent.com^$important
-@@||www.theguardian.com^$important
 @@||*.jextream.net^$important
-@@||www.msftncsi.com^$important
-@@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
-@@||www.msftconnecttest.com^$important
-@@||www.bbc.com^$important
-@@||googlehosted.l.googleusercontent.com^$important
-@@||www.theguardian.com^$important
 @@||*.jextream.net^$important
 @@||* .spt01ftwotx.ftwo.tx.charter.com^$important
 @@||* .dallas1.cabospeed.com^$important
@@ -314,8 +303,21 @@
 @@||img.*.gov^$important
 @@||img.*.io^$important
 @@||img.*.co^$important
+@@||www.sos.texas.gov^$important
+@@||www.votetexas.gov^$important
+@@||www.msftncsi.com^$important
+@@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
+@@||www.msftconnecttest.com^$important
+@@||www.bbc.com^$important
+@@||googlehosted.l.googleusercontent.com^$important
+@@||www.theguardian.com^$important
+@@||www.msftncsi.com^$important
+@@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
+@@||www.msftconnecttest.com^$important
+@@||www.bbc.com^$important
+@@||googlehosted.l.googleusercontent.com^$important
+@@||www.theguardian.com^$important
 @@||downloads.realvnc.com^$important
-@@||d2trelizintp7b.cloudfront.net^$important
 @@||www.apartments.com^$important
 @@||account.microsoft.com^$important
 @@||ipv4.imgur.map.fastly.net^$important
@@ -324,7 +326,6 @@
 @@||stardew.info^$important
 @@||steamusercontent-a.akamaihd.net^$important
 @@||m.bbb.org^$important
-@@||d19rpgkrjeba2z.cloudfront.net^$important
 @@||statefarm.com^$important
 @@||e99410.a.akamaiedge.net^$important
 @@||qr-code-generator.com^$important
@@ -379,7 +380,6 @@
 @@||service.lisk.io^$important
 @@||solanabeach.io^$important
 @@||apidata.googleusercontent.com^$important
-@@||d3br2th9cd9o2a.cloudfront.net^$important
 @@||js.stripe.com^$important
 @@||cdn101*.tnmr.org^$important
 @@||wishstream.click^$important
@@ -393,7 +393,6 @@
 @@||sockjs-us2.pusher.com^$important
 @@||paypal-dynamic.map.fastly.net^$important
 @@||dualstack.paypal-dynamic-2.map.fastly.net^$important
-@@||d17ndjuagurpsr.cloudfront.net^$important
 @@||yuzu-emu.org^$important
 @@||nk79zqr9.r.us-east-1.awstrack.me^$important
 @@||mail.google.com^$important
@@ -611,7 +610,6 @@
 @@||o4505906598641664.ingest.sentry.io^$important
 @@||firebaseinstallations.googleapis.com^$important
 @@||hobbylobby.com^$important
-@@||d3i4yxtzktqr9n.cloudfront.net^$important
 @@||android.googleapis.com^$important
 @@||voice.googleapis.com^$important
 @@||people-pa.googleapis.com^$important
@@ -643,21 +641,15 @@
 @@||discover.com^$important
 @@||demdex.net^$important
 @@||ajax.googleapis.com^$important
-@@||d32ijn7u0aqfv4.cloudfront.net^$important
 @@||online-metrix.net^$important
 @@||cdn.auth0.com^$important
 @@||xtrapath*.izatcloud.net^$important
-@@||d25w3v87zu4vev.cloudfront.net^$important
 @@||cdn.rollbar.com^$important
-@@||d3331otr86r7j1.cloudfront.net^$important
-@@||d1bvmdanhrl7qk.cloudfront.net^$important
 @@||stash.com^$important
 @@||oktacdn.com^$important
-@@||d1ril57tlz9ev4.cloudfront.net^$important
 @@||digitalgov.gov^$important
 @@||tsp.gov^$important
 @@||web.simplelogin.co^$important
-@@||d207qo6t8lp69n.cloudfront.net^$important
 @@||clients6.google.com^$important
 @@||api.onedrive.com^$important
 @@||balena.io^$important
@@ -670,8 +662,6 @@
 @@||nebula.tv^$important
 @@||nebula.app^$important
 @@||www.imdb.com^$important
-@@||dqpnq362acqdi.cloudfront.net^$important
-@@||db187550c7dkf.cloudfront.net^$important
 @@||reg.usps.com^$important
 @@||play.google.com^$important
 @@||android.clients.google.com^$important
@@ -692,7 +682,6 @@
 @@||download.kde.org^$important
 @@||download-installer.cdn.mozilla.net^$important
 @@||www.videolan.org^$important
-@@||d3e54v103j8qbb.cloudfront.net^$important
 @@||obsidian.md^$important
 @@||thunderbird.net^$important
 @@||addons.mozilla.org^$important
@@ -717,7 +706,6 @@
 @@||www.tomsguide.com^$important
 @@||www.washingtonpost.com^$important
 @@||www.batteryworld.com.au^$important
-@@||d2znr2yi078d75.cloudfront.net^$important
 @@||usebottles.com^$important
 @@||bigdipper.live^$important
 @@||jwplayer-dualstack.map.fastly.net^$important
@@ -735,7 +723,6 @@
 @@||cdn1008.tnmr.org^$important
 @@||gql.mainnet.desmos.network^$important
 @@||www.facebook.com^$important
-@@||d2nk2vyhlnep33.cloudfront.net^$important
 @@||cdn.doordash.com^$important
 @@||www.omgubuntu.co.uk^$important
 @@||ubuntuhandbook.org^$important
@@ -822,7 +809,6 @@
 @@||google.com^$important
 @@||www.zdnet.com^$important
 @@||adguard-dns.io^$important
-@@||d231vab146qzfb.cloudfront.net^$important
 @@||staterecords.org^$important
 @@||mainnet.infura.io^$important
 @@||wallet.okex.org^$important
@@ -842,7 +828,6 @@
 @@||twitch.tv^$important
 @@||static-cdn.jtvnw.net^$important
 @@||k.twitchcdn.net^$important
-@@||dqrpb9wgowsf5.cloudfront.net^$important
 @@||rclone.org^$important
 @@||lendingclub.com^$important
 @@||hackster.imgix.net^$important
@@ -853,7 +838,6 @@
 @@||js.monitor.azure.com^$important
 @@||ajax.aspnetcdn.com^$important
 @@||devhints.io^$important
-@@||d38dn05f0v5itl.cloudfront.net^$important
 @@||insight.dcrdata.decred.org^$important
 @@||horizon.stellar.org^$important
 @@||youtube-ui.l.google.com^$important
@@ -864,7 +848,6 @@
 @@||service.lisk.io^$important
 @@||solanabeach.io^$important
 @@||apidata.googleusercontent.com^$important
-@@||d3br2th9cd9o2a.cloudfront.net^$important
 @@||js.stripe.com^$important
 @@||cdn101*.tnmr.org^$important
 @@||wishstream.click^$important
@@ -878,7 +861,6 @@
 @@||sockjs-us2.pusher.com^$important
 @@||paypal-dynamic.map.fastly.net^$important
 @@||dualstack.paypal-dynamic-2.map.fastly.net^$important
-@@||d17ndjuagurpsr.cloudfront.net^$important
 @@||yuzu-emu.org^$important
 @@||nk79zqr9.r.us-east-1.awstrack.me^$important
 @@||mail.google.com^$important
@@ -1096,7 +1078,6 @@
 @@||o4505906598641664.ingest.sentry.io^$important
 @@||firebaseinstallations.googleapis.com^$important
 @@||hobbylobby.com^$important
-@@||d3i4yxtzktqr9n.cloudfront.net^$important
 @@||android.googleapis.com^$important
 @@||voice.googleapis.com^$important
 @@||people-pa.googleapis.com^$important
@@ -1126,21 +1107,15 @@
 @@||discover.com^$important
 @@||demdex.net^$important
 @@||ajax.googleapis.com^$important
-@@||d32ijn7u0aqfv4.cloudfront.net^$important
 @@||online-metrix.net^$important
 @@||cdn.auth0.com^$important
 @@||xtrapath*.izatcloud.net^$important
-@@||d25w3v87zu4vev.cloudfront.net^$important
 @@||cdn.rollbar.com^$important
-@@||d3331otr86r7j1.cloudfront.net^$important
-@@||d1bvmdanhrl7qk.cloudfront.net^$important
 @@||stash.com^$important
 @@||oktacdn.com^$important
-@@||d1ril57tlz9ev4.cloudfront.net^$important
 @@||digitalgov.gov^$important
 @@||tsp.gov^$important
 @@||web.simplelogin.co^$important
-@@||d207qo6t8lp69n.cloudfront.net^$important
 @@||clients6.google.com^$important
 @@||api.onedrive.com^$important
 @@||balena.io^$important
@@ -1153,8 +1128,6 @@
 @@||nebula.tv^$important
 @@||nebula.app^$important
 @@||www.imdb.com^$important
-@@||dqpnq362acqdi.cloudfront.net^$important
-@@||db187550c7dkf.cloudfront.net^$important
 @@||reg.usps.com^$important
 @@||play.google.com^$important
 @@||android.clients.google.com^$important
@@ -1175,7 +1148,6 @@
 @@||download.kde.org^$important
 @@||download-installer.cdn.mozilla.net^$important
 @@||www.videolan.org^$important
-@@||d3e54v103j8qbb.cloudfront.net^$important
 @@||obsidian.md^$important
 @@||thunderbird.net^$important
 @@||addons.mozilla.org^$important
@@ -1200,7 +1172,6 @@
 @@||www.tomsguide.com^$important
 @@||www.washingtonpost.com^$important
 @@||www.batteryworld.com.au^$important
-@@||d2znr2yi078d75.cloudfront.net^$important
 @@||usebottles.com^$important
 @@||bigdipper.live^$important
 @@||jwplayer-dualstack.map.fastly.net^$important
@@ -1217,7 +1188,6 @@
 @@||cdn1008.tnmr.org^$important
 @@||gql.mainnet.desmos.network^$important
 @@||www.facebook.com^$important
-@@||d2nk2vyhlnep33.cloudfront.net^$important
 @@||cdn.doordash.com^$important
 @@||www.omgubuntu.co.uk^$important
 @@||ubuntuhandbook.org^$important
@@ -1303,7 +1273,6 @@
 @@||google.com^$important
 @@||www.zdnet.com^$important
 @@||adguard-dns.io^$important
-@@||d231vab146qzfb.cloudfront.net^$important
 @@||staterecords.org^$important
 @@||mainnet.infura.io^$important
 @@||wallet.okex.org^$important
@@ -1323,7 +1292,6 @@
 @@||twitch.tv^$important
 @@||static-cdn.jtvnw.net^$important
 @@||k.twitchcdn.net^$important
-@@||dqrpb9wgowsf5.cloudfront.net^$important
 @@||rclone.org^$important
 @@||lendingclub.com^$important
 @@||hackster.imgix.net^$important
@@ -1334,12 +1302,10 @@
 @@||js.monitor.azure.com^$important
 @@||ajax.aspnetcdn.com^$important
 @@||devhints.io^$important
-@@||d38dn05f0v5itl.cloudfront.net^$important
 @@||e13008.b.akamaiedge.net^$important
 @@||deb.debian.org^$important
 @@||docker.io^$important
 @@||portainer.io^$important
-@@||d36jcksde1wxzq.cloudfront.net^$important
 @@||containrrr.dev^$important
 @@||mixdrop.co^$important
 @@||dood.wf^$important
@@ -1347,7 +1313,6 @@
 @@||e68676.x.akamaiedge.net^$important
 @@||hosting.gitbook.io^$important
 @@||royal.ms^$important
-@@||d3koqshax83fsx.cloudfront.net^$important
 @@||lmn-lax-k1.ep.section.io^$important
 @@||www.webdavsystem.com^$important
 @@||ciscobinary.openh264.org^$important
@@ -1432,14 +1397,11 @@
 @@||lora-alliance.org^$important
 @@||public-dns.info^$important
 @@||www.paypal-community.com^$important
-@@||dm0gqb64985es.cloudfront.net^$important
 @@||pay-users-pa.googleapis.com^$important
-@@||d3hw6dc1ow8pp2.cloudfront.net^$important
 @@||cdn.getshogun.com^$important
 @@||cdn.richpanel.com^$important
 @@||assets.website-files.com^$important
 @@||map.hearthcraft.net^$important
-@@||d3v0px0pttie1i.cloudfront.net^$important
 @@||southcentralus1-0.pushnp.svc.ms^$important
 @@||amcdn.msftauth.net^$important
 @@||minecraft.menu^$important
@@ -1448,7 +1410,6 @@
 @@||banjoo.site^$important
 @@||shortlab.click^$important
 @@||www.paypal-community.com^$important
-@@||dm0gqb64985es.cloudfront.net^$important
 @@||togethercraft.online^$important
 @@||www.ethereal.network^$important
 @@||ai.google^$important
@@ -1479,7 +1440,6 @@
 @@||doc.owncloud.org^$important
 @@||doc.owncloud.com^$important
 @@||m.stripe.network^$important
-@@||dexeqbeb7giwr.cloudfront.net^$important
 @@||www.cnn.com^$important
 @@||tv50.wiki^$important
 @@||www.tving.com^$important
@@ -1503,7 +1463,6 @@
 @@||doc.owncloud.org^$important
 @@||doc.owncloud.com^$important
 @@||m.stripe.network^$important
-@@||dexeqbeb7giwr.cloudfront.net^$important
 @@||www.cnn.com^$important
 @@||tv50.wiki^$important
 @@||www.tving.com^$important
@@ -1535,11 +1494,7 @@
 @@||ally.tt.omtrdc.net^$important
 @@||assets.instantcheckmate.com^$important
 @@||my.t-mobile.com^$important
-@@||dowpznhhyvkm4.cloudfront.net^$important
-@@||d100npzark077w.cloudfront.net^$important
-@@||d2xe71nj4xrmst.cloudfront.net^$important
 @@||cdn.tmobile.com^$important
-@@||d1erhn8sljv386.cloudfront.net^$important
 @@||s-part-0029.t-0009.t-msedge.net^$important
 @@||ground.news^$important
 @@||www.history.navy.mil^$important
