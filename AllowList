@@ -1,9 +1,8 @@
 @@||amazonaws.com^$important
 @@||akamaiedge.net^$important
+@@||fastly.net^$important
 @@||speedtest.net^$important
-@@||speedtest.dal1.*.prod.hosts.ooklaserver.net^$important
-@@||speedtest-dfw.*.prod.hosts.ooklaserver.net^$important
-@@||speedtest.dal.*.prod.hosts.ooklaserver.net^$important
+@@||ooklaserver.net^$important
 @@||*.progressive.com^$important
 @@||*.progressivedirect.com^$important
 @@||*.jextream.net^$important
@@ -55,12 +54,6 @@
 @@||*.wikia.nocookie.net^$important
 @@||*.adultswim.com^$important
 @@||*.in-addr.arpa^$important
-@@||* .ook-dal-x1.puregig.net.prod.hosts.ooklaserver.net^$important
-@@||*.puregig.net.prod.hosts.ooklaserver.net^$important
-@@||*.dal.hivelocity.net.prod.hosts.ooklaserver.net^$important
-@@||*.dish-wireless.com.prod.hosts.ooklaserver.net^$important
-@@||*.dal1.nitelusa.net.prod.hosts.ooklaserver.net^$important
-@@||*.emiliauhh.com.prod.hosts.ooklaserver.net^$important
 @@||*.cabospeed.com^$important
 @@||www.msftncsi.com^$important
 @@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
@@ -76,7 +69,6 @@
 @@||googlehosted.l.googleusercontent.com^$important
 @@||www.theguardian.com^$important
 @@||*.jextream.net^$important
-@@||* .dal.emiliauhh.com.prod.hosts.ooklaserver.net^$important
 @@||* .spt01ftwotx.ftwo.tx.charter.com^$important
 @@||* .dallas1.cabospeed.com^$important
 @@||*.tailscale.com^$important
@@ -182,14 +174,7 @@
 @@||*.wikia.nocookie.net^$important
 @@||*.adultswim.com^$important
 @@||*.in-addr.arpa^$important
-@@||* .ook-dal-x1.puregig.net.prod.hosts.ooklaserver.net^$important
-@@||*.puregig.net.prod.hosts.ooklaserver.net^$important
-@@||*.dal.hivelocity.net.prod.hosts.ooklaserver.net^$important
-@@||*.dish-wireless.com.prod.hosts.ooklaserver.net^$important
-@@||*.dal1.nitelusa.net.prod.hosts.ooklaserver.net^$important
-@@||*.emiliauhh.com.prod.hosts.ooklaserver.net^$important
 @@||*.cabospeed.com^$important
-@@||*.dal.emiliauhh.com.prod.hosts.ooklaserver.net^$important
 @@||*.spt01ftwotx.ftwo.tx.charter.com^$important
 @@||*.dallas1.cabospeed.com^$important
 @@||*.tailscale.com^$important
