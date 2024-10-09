@@ -303,6 +303,16 @@
 @@||img.*.gov^$important
 @@||img.*.io^$important
 @@||img.*.co^$important
+@@||performance.arlingtontx.gov^$important
+@@||hubcdn.arcgis.com^$important
+@@||1fichier.com^$important
+@@||gplinks.co^$important
+@@||www.mediafire.com^$important
+@@||market.android.com^$important
+@@||help.realvnc.com^$important
+@@||www.gamefly.com^$important
+@@||gamefly.gameflycdn.com^$important
+@@||mail-attachment.googleusercontent.com^$important
 @@||www.sos.texas.gov^$important
 @@||www.votetexas.gov^$important
 @@||www.msftncsi.com^$important
