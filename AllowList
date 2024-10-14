@@ -8,6 +8,8 @@
 @@||joinjoaomgcd.appspot.com^$important
 @@||device-api.urbanairship.com^$important
 @@||h5.petrozone.com^$important
+@@||*.affirm.com^$important
+@@||*.branch.io^$important
 @@||*.withyotta.com^$important
 @@|| *.mediafire.com^$important
 @@||*.shell.com^$important
