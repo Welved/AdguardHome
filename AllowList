@@ -9,7 +9,8 @@
 @@||device-api.urbanairship.com^$important
 @@||h5.petrozone.com^$important
 @@||logging.api.intuit.com^$important
-@@||creditkarmacdn-a.akamaihd.net^$important
+@@||*.akamaihd.net^$important
+@@||logging.api.intuit.com^$important
 @@||*.affirm.com^$important
 @@||*.withyotta.com^$important
 @@|| *.mediafire.com^$important
@@ -344,7 +345,6 @@
 @@||7biko.x.incapdns.net^$important
 @@||developer.android.com^$important
 @@||stardew.info^$important
-@@||steamusercontent-a.akamaihd.net^$important
 @@||m.bbb.org^$important
 @@||statefarm.com^$important
 @@||e99410.a.akamaiedge.net^$important
@@ -458,7 +458,6 @@
 @@||yeou.app^$important
 @@||www.tutorialspoint.com^$important
 @@||www.saintlad.com^$important
-@@||steamstore-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
 @@||forums.tomsguide.com^$important
 @@||recoverit.wondershare.com^$important
@@ -636,7 +635,6 @@
 @@||apis.google.com^$important
 @@||www.googleapis.com^$important
 @@||cr-us.nexon.co.kr^$important
-@@||steamcommunity-a.akamaihd.net^$important
 @@||s*.symcb.com^$important
 @@||crl*.digicert.com^$important
 @@||ocsp.digicert.com^$important
@@ -926,7 +924,6 @@
 @@||yeou.app^$important
 @@||www.tutorialspoint.com^$important
 @@||www.saintlad.com^$important
-@@||steamstore-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
 @@||forums.tomsguide.com^$important
 @@||recoverit.wondershare.com^$important
@@ -1104,7 +1101,6 @@
 @@||apis.google.com^$important
 @@||www.googleapis.com^$important
 @@||cr-us.nexon.co.kr^$important
-@@||steamcommunity-a.akamaihd.net^$important
 @@||ocsp.digicert.com^$important
 @@||nexon-player-support.dev.ops.nxdc.io^$important
 @@||www.techsupportforum.com^$important
