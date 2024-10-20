@@ -9,8 +9,17 @@
 @@||device-api.urbanairship.com^$important
 @@||h5.petrozone.com^$important
 @@||logging.api.intuit.com^$important
+@@||r.lr-hv-in.com^$important
+@@||lptag.liveperson.net^$important
+@@||google-play.en.uptodown.com^$important
+@@||toolbox.googleapps.com^$important
+@@||lscr.io^$important
+@@||www.unmannedtechshop.co.uk^$important
+@@||r2.cloudflarestorage.com^$important
+@@||*.cloudflare^$important
+@@||resolver1.opendns.com^$important
 @@||*.akamaihd.net^$important
-@@||logging.api.intuit.com^$important
+@@||*.e.foundation^$important
 @@||*.affirm.com^$important
 @@||*.withyotta.com^$important
 @@|| *.mediafire.com^$important
@@ -486,8 +495,6 @@
 @@||brother.com^$important
 @@||abp.oisd.nl^$important
 @@||resmanapp.cloudapp.net^$important
-@@||cloudflare.com^$important
-@@||apkdata.a56b31353d7c030e6002c8fb6324539f.r2.cloudflarestorage.com^$important
 @@||mashtips.com^$important
 @@||fonts.gstatic.com^$important
 @@||aa.com^$important
@@ -568,7 +575,6 @@
 @@||i.stack.imgur.com^$important
 @@||cdn.sstatic.net^$important
 @@||www.vidsrc.to^$important
-@@||cdnjs.cloudflare.com^$important
 @@||syncthing.net^$important
 @@||play-lh.googleusercontent.com^$important
 @@||www.linuxcapable.com^$important
@@ -952,8 +958,6 @@
 @@||brother.com^$important
 @@||abp.oisd.nl^$important
 @@||resmanapp.cloudapp.net^$important
-@@||cloudflare.com^$important
-@@||apkdata.a56b31353d7c030e6002c8fb6324539f.r2.cloudflarestorage.com^$important
 @@||mashtips.com^$important
 @@||fonts.gstatic.com^$important
 @@||aa.com^$important
