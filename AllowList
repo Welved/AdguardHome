@@ -1,6 +1,5 @@
 @@||googleapis.com^$important
 @@||amazonaws.com^$important
-@@||akamaiedge.net^$important
 @@||fastly.net^$important
 @@||speedtest.net^$important
 @@||ooklaserver.net^$important
@@ -19,7 +18,6 @@
 @@||r2.cloudflarestorage.com^$important
 @@||*.cloudflare^$important
 @@||resolver1.opendns.com^$important
-@@||*.akamaihd.net^$important
 @@||*.e.foundation^$important
 @@||*.affirm.com^$important
 @@||*.withyotta.com^$important
@@ -103,7 +101,6 @@
 @@||*.office.com^$important
 @@||*.office.net^$important
 @@||*.live.com^$important
-@@||*.dsc*.akamaiedge.net^$important
 @@||*.*fx.ms^$important
 @@||*.openwrt.pool.ntp.org^$important
 @@||*.debian.pool.ntp.org^$important
@@ -209,7 +206,6 @@
 @@||*.office.com^$important
 @@||*.office.net^$important
 @@||*.live.com^$important
-@@||*.dsc*.akamaiedge.net^$important
 @@||*.*fx.ms^$important
 @@||*.openwrt.pool.ntp.org^$important
 @@||*.debian.pool.ntp.org^$important
@@ -365,7 +361,6 @@
 @@||stardew.info^$important
 @@||m.bbb.org^$important
 @@||statefarm.com^$important
-@@||e99410.a.akamaiedge.net^$important
 @@||qr-code-generator.com^$important
 @@||realpage.com^$important
 @@||airalo.web.emea-1.jumio.ai^$important
@@ -498,7 +493,6 @@
 @@||spotify.com^$important
 @@||open.spotifycdn.com^$important
 @@||spotify.map.fastly.net^$important
-@@||audio-ak-spotify-com.akamaized.net^$important
 @@||api.ipostal1.com^$important
 @@||global.turn.twilio.com^$important
 @@||brother.com^$important
@@ -593,7 +587,6 @@
 @@||cdn.quantummetric.com^$important
 @@||siteintercept.qualtrics.com^$important
 @@||syncthing.ams3.digitaloceanspaces.com^$important
-@@||x-ins.akamaized.net^$important
 @@||configs.sdk.crowd-umlaut.com^$important
 @@||yubico.com^$important
 @@||login.live.com^$important
@@ -771,7 +764,7 @@
 @@||txt.texas.gov^$important
 @@||calyxinstitute.org^$important
 @@||www.kroger.com^$important
-@@||e8023.a.akamaiedge.net^$important
+ 
 @@||*.walmart.com^$important
 @@||i*.walmartimages.com^$important
 @@||smaug-public.stashinvest.dmz.stsh.io^$important
@@ -1233,7 +1226,7 @@
 @@||mapleroyal.ms^$important
 @@||calyxinstitute.org^$important
 @@||www.kroger.com^$important
-@@||e8023.a.akamaiedge.net^$important
+ 
 @@||www.walmart.com^$important
 @@||smaug-public.stashinvest.dmz.stsh.io^$important
 @@||www.lendingclub.com^$important
