@@ -306,6 +306,14 @@
 @@||*.typekit.net^$important
 @@||*.survivify.org^$important
 @@||*.curseforge.com^$important
+@@||dns10.quad9.net^$important
+@@||www.torproject.org^$important
+@@||joovideo.cfd^$important
+@@||animekai.to^$important
+@@||zizicoi.online^$important
+@@||multiembed.mov^$important
+@@||www.msn.com^$important
+@@||assets.msn.com^$important
 @@||image.*.org^$important
 @@||image.*.net^$important
 @@||image.*.gov^$important
