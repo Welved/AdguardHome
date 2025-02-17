@@ -1,8 +1,14 @@
 @@||rr*---sn-*.googlevideo.com^$important
+@@||imap.*.com^$important
 @@||*.ytimg.com^$important
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||172.17.04^$important
+@@||ingest.quantummetric.com^$important
+@@||flydelta-mobile.firebaseio.com^$important
+@@||zn06uo1btikvrv0bq-deltacx.siteintercept.qualtrics.com^$important
+@@||launchdarkly.com^$important
 @@||githubusercontent.com^$important
 @@||githubassets.com^$important
 @@||github.com^$important
