@@ -1,6 +1,8 @@
 @@||rr*---sn-*.googlevideo.com^$important
 @@||imap.*.com^$important
 @@||smtp.*.com^$important
+@@||viki.*^$important
+@@||vikiplatform.com^$important
 @@||*.ytimg.com^$important
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
@@ -16,9 +18,6 @@
 @@||www.mp4upload.com^$important
 @@||dood.wf^$important
 @@||a2.mp4upload.com^$important
-@@||viki.com^$important
-@@||viki.io^$important
-@@||vikiplatform.com^$important
 @@||bilibili.tv^$important
 @@||bstarstatic.com^$important
 @@||playpilot.com^$important
