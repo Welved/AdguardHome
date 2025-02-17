@@ -5,6 +5,9 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||dramacooli.*^$important
+@@||dramacool.*^$important
+@@||dramaacooll.*^$important
 @@||asianplay.pro^$important
 @@||streamsss.net^$important
 @@||fembed9hd.com^$important
@@ -13,9 +16,6 @@
 @@||www.mp4upload.com^$important
 @@||dood.wf^$important
 @@||a2.mp4upload.com^$important
-@@||dramacooli.*^$important
-@@||dramacool.*^$important
-@@||dramaacooll.*^$important
 @@||viki.com^$important
 @@||viki.io^$important
 @@||vikiplatform.com^$important
