@@ -1,8 +1,6 @@
 @@||rr*---sn-*.googlevideo.com^$important
 @@||imap.*.com^$important
 @@||smtp.*.com^$important
-@@||viki.*^$important
-@@||vikiplatform.com^$important
 @@||*.ytimg.com^$important
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
@@ -10,6 +8,8 @@
 @@||dramacooli.*^$important
 @@||dramacool.*^$important
 @@||dramaacooll.*^$important
+@@||viki.*^$important
+@@||vikiplatform.com^$important
 @@||asianplay.pro^$important
 @@||streamsss.net^$important
 @@||fembed9hd.com^$important
