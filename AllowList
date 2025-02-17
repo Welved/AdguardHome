@@ -4,7 +4,6 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
-@@||172.17.04^$important
 @@||ingest.quantummetric.com^$important
 @@||flydelta-mobile.firebaseio.com^$important
 @@||zn06uo1btikvrv0bq-deltacx.siteintercept.qualtrics.com^$important
@@ -39,3 +38,16 @@
 @@||discord.com^$important
 @@||discord.gg^$important
 @@||discordapp.com^$important
+@@||blockchain.info^$important
+@@||moonpay.com^$important
+@@||ramp.network^$important
+@@||onramper.com^$important
+@@||robinhood.com^$important
+@@||walletconnect.com^$important
+@@||walletconnect.org^$important
+@@||grayjay.app^$important
+@@||calyxinstitute.org^$important
+@@||twitch.tv^$important
+@@||nebula.app^$important
+@@||spotify.com^$important
+@@||ubuntu.com^$important
