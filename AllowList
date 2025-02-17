@@ -13,11 +13,9 @@
 @@||www.mp4upload.com^$important
 @@||dood.wf^$important
 @@||a2.mp4upload.com^$important
-@@||dramacooli.cc^$important
-@@||dramacool.bg^$important
-@@||dramacool.co.im^$important
-@@||dramacool.co.rs^$important
-@@||dramaacooll.com^$important
+@@||dramacooli.*^$important
+@@||dramacool.*^$important
+@@||dramaacooll.*^$important
 @@||viki.com^$important
 @@||viki.io^$important
 @@||vikiplatform.com^$important
