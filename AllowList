@@ -7,7 +7,7 @@
 @@||*.gstatic.com^$important
 @@||redditmedia.com^$important
 @@||redd.it^$important
-@@||auth.docker.io^$important
+@@||docker.io^$important
 @@||home-assistant.io^$important
 @@||www.snbforums.com^$important
 @@||www.linuxuprising.com^$important
