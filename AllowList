@@ -5,6 +5,16 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||www.merriam-webster.com^$important
+@@||megaup.cc^$important
+@@||cdn.jsdelivr.net^$important
+@@||stackpath.bootstrapcdn.com^$important
+@@||pepepeyo.xyz^$important
+@@||zizicoi.online^$important
+@@||hanatyury.online^$important
+@@||ssl.p.jwpcdn.com^$important
+@@||cc.subsceness.xyz^$important
+@@||raffaellocdn.net^$important
 @@||files.pythonhosted.org^$important
 @@||cloudflare.com^$important
 @@||phantom.app^$important
