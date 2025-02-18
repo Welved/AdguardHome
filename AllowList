@@ -5,6 +5,7 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||cloudflare.com^$important
 @@||phantom.app^$important
 @@||redditmedia.com^$important
 @@||redd.it^$important
