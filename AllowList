@@ -5,6 +5,8 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||redditmedia.com^$important
+@@||redd.it^$important
 @@||auth.docker.io^$important
 @@||home-assistant.io^$important
 @@||www.snbforums.com^$important
