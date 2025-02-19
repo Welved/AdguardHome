@@ -5,6 +5,12 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||contentful.com^$important
+@@||apps.rokt.com^$important
+@@||prod.grubhub2.map.fastlylb.net^$important
+@@||cloudinary.com^$important
+@@||sourcemaps-wsdk.roktinternal.com^$important
+@@||privacy.com^$important
 @@||dentalhealtharlington.org^$important
 @@||tp-link.com^$important
 @@||carfax.com^$important
