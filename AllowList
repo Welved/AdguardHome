@@ -5,6 +5,14 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||dentalhealtharlington.org^$important
+@@||tp-link.com^$important
+@@||carfax.com^$important
+@@||state.gov^$important
+@@||linuxserver.io^$important
+@@||www.pymnts.com^$important
+@@||postmates.com^$important
+@@||www.grubhub.com^$important
 @@||investopedia.com^$important
 @@||studentaid.gov^$important
 @@||coinmarketcap.com^$important
