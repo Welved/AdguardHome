@@ -5,6 +5,7 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||investopedia.com^$important
 @@||studentaid.gov^$important
 @@||coinmarketcap.com^$important
 @@||coingecko.com^$important
