@@ -5,6 +5,8 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||cdn.prod.website-files.com^$important
+@@||zdassets.com^$important
 @@||contentful.com^$important
 @@||apps.rokt.com^$important
 @@||prod.grubhub2.map.fastlylb.net^$important
