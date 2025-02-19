@@ -5,6 +5,7 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||coinmarketcap.com^$important
 @@||coingecko.com^$important
 @@||raffaellocdn.net^$important
 @@||www.merriam-webster.com^$important
