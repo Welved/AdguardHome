@@ -5,6 +5,9 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||homesteadcraft.com^$important
+@@||cyt.gg^$important
+@@||chaoticunited.net^$important
 @@||speedtest.net.cdn.cloudflare.net^$important
 @@||api.cx.metamask.io^$important
 @@||mojang.com^$important
