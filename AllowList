@@ -5,6 +5,9 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||nextcloud.jancenk.com^$important
+@@||pypi.org^$important
+@@||redditspace.com^$important
 @@||lawrencesystems.com^$important
 @@||cloudflare-dns.com^$important
 @@||in-addr.arpa^$important
