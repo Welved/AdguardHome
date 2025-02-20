@@ -5,6 +5,12 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||speedtest.net^$important
+@@||b.cdnst.net^$important
+@@||speedtest.frontier.com^$important
+@@||dallas1.cabospeed.com^$important
+@@||ooklaserver.net^$important
+@@||speedtest.1scom.com^$important
 @@||cdn.prod.website-files.com^$important
 @@||zdassets.com^$important
 @@||contentful.com^$important
