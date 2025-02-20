@@ -5,6 +5,9 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||lawrencesystems.com^$important
+@@||cloudflare-dns.com^$important
+@@||in-addr.arpa^$important
 @@||homesteadcraft.com^$important
 @@||cyt.gg^$important
 @@||chaoticunited.net^$important
