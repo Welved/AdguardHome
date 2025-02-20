@@ -5,6 +5,13 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||bbc.com^$important
+@@||maxcdn.bootstrapcdn.com^$important
+@@||ip6.arpa^$important
+@@||dpm.demdex.net^$important
+@@||ktownstory.com^$important
+@@||joovideo.cfd^$important
+@@||greenmountainenergy.com^$important
 @@||nginx.org^$important
 @@||stackoverflow.com^$important
 @@||serverfault.com^$important
