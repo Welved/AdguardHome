@@ -5,6 +5,10 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||nginx.org^$important
+@@||stackoverflow.com^$important
+@@||serverfault.com^$important
+@@||cdn.sstatic.net^$important
 @@||nextcloud.jancenk.com^$important
 @@||pypi.org^$important
 @@||redditspace.com^$important
