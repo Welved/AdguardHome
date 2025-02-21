@@ -5,6 +5,10 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||lifewire.com^$important
+@@||theverge.com^$important
+@@||kakaocdn.net^$important
+@@||cloudflarestorage.com^$important
 @@||bbc.com^$important
 @@||maxcdn.bootstrapcdn.com^$important
 @@||ip6.arpa^$important
