@@ -5,6 +5,9 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||infura.io^$important
+@@||whoami.cloudflare^$important
+@@||opendns.com^$important
 @@||dockerstatic.com^$important
 @@||docker.com^$important
 @@||argotunnel.com^$important
