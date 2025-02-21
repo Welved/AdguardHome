@@ -5,6 +5,7 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||ipinfo.io^$important
 @@||infura.io^$important
 @@||whoami.cloudflare^$important
 @@||opendns.com^$important
