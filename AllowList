@@ -5,6 +5,11 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||wikipedia.org^$important
+@@||wikimedia.org^$important
+@@||mydramalist.com^$important
+@@||media.tenor.com^$important
+@@||www.youtube-nocookie.com^$important
 @@||ipinfo.io^$important
 @@||infura.io^$important
 @@||whoami.cloudflare^$important
