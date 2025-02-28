@@ -10,6 +10,7 @@
 @@||*.googleapis.com^$important
 @@||*.google.com^$important
 @@||*.gstatic.com^$important
+@@||algorand.foundation^$important
 @@||portainer-io-assets.sfo2.digitaloceanspaces.com^$important
 @@||zoom.earth^$important
 @@||getflex.com^$important
