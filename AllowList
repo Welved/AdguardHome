@@ -13,6 +13,7 @@
 @@||*.coinbase.com^$important
 @@||*.ipostal1.com^$important
 @@||*.anilist.co^$important
+@@||*.malsync.moe^$important
 @@||mainnet-api.algonode.cloud^$important
 @@||algorand-governance-platform-web.s3.amazonaws.com^$important
 @@||algorand.foundation^$important
