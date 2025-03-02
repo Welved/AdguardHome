@@ -13,6 +13,10 @@
 @@||*.ipostal1.com^$important
 @@||*.anilist.co^$important
 @@||*.malsync.moe^$important
+@@||accounts.google.com^$important
+@@||www.google.com^$important
+@@||spotifycdn.com^$important
+@@||voice.google.com^$important
 @@||auroraoss.com^$important
 @@||security.stackexchange.com^$important
 @@||whois.com^$important
