@@ -14,6 +14,12 @@
 @@||*.ipostal1.com^$important
 @@||*.anilist.co^$important
 @@||*.malsync.moe^$important
+@@||security.stackexchange.com^$important
+@@||whois.com^$important
+@@||netify.ai^$important
+@@||domain.glass^$important
+@@||trustpilot.com^$important
+@@||trustpilot.net^$important
 @@||activebuilding.com^$important
 @@||realpage.com^$important
 @@||studentaid.gov^$important
