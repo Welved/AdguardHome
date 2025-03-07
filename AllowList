@@ -13,6 +13,11 @@
 @@||*.ipostal1.com^$important
 @@||*.anilist.co^$important
 @@||*.malsync.moe^$important
+@@||moneropulse.org^$important
+@@||moneropulse.net^$important
+@@||lttstore.com^$important
+@@||lemonade-prod.cmtelematics.com^$important
+@@||lemonade.com^$important
 @@||apis.google.com^$important
 @@||ipv4.icanhazip.com^$important
 @@||clients.google.com^$important
