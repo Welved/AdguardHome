@@ -21,6 +21,12 @@
 @@||*.steamserver.net^$important
 @@||*.cloudflarestorage.com^$important
 @@||*.ubuntu.com^$important
+@@||cleanbrowsing.org^$important
+@@||dnsbycomodo.com^$important
+@@||one.one.one.one^$important
+@@||sinodun.com^$important
+@@||cfiec.net^$important
+@@||controld.com^$important
 @@||docker.io^$important
 @@||github.com^$important
 @@||api.pcloud.com^$important
