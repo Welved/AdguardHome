@@ -21,6 +21,15 @@
 @@||*.steamserver.net^$important
 @@||*.cloudflarestorage.com^$important
 @@||*.ubuntu.com^$important
+@@||opm.gov^$important
+@@||commerce.gov^$important
+@@||thunderbird.net^$important
+@@||fpt.live.com^$important
+@@||centralparkdental.net^$important
+@@||amazon.com^$important
+@@||m1finance.com^$important
+@@||raid-calculator.com^$important
+@@||0ms.dev^$important
 @@||gl-inet.com^$important
 @@||imagetotext.cc^$important
 @@||www.google.com^$important
