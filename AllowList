@@ -15,7 +15,6 @@
 @@||*.malsync.moe^$important
 @@||imap.*.com^$important
 @@||*.launchpadcontent.net^$important
-@@||*.kakao.com^$important
 @@||*.google.com^$important
 @@||*.ytimg.com^$important
 @@||*.steamserver.net^$important
@@ -541,7 +540,6 @@
 @@||argotunnel.com^$important
 @@||lifewire.com^$important
 @@||theverge.com^$important
-@@||kakaocdn.net^$important
 @@||cloudflarestorage.com^$important
 @@||bbc.com^$important
 @@||maxcdn.bootstrapcdn.com^$important
@@ -655,7 +653,6 @@
 @@||simplelogin.io^$important
 @@||letsencrypt.org^$important
 @@||nextcloud.com^$important
-@@||kakao.com^$important
 @@||pcloud.com^$important
 @@||exodus.io^$important
 @@||animekai.to^$important
