@@ -20,6 +20,10 @@
 @@||*.steamserver.net^$important
 @@||*.cloudflarestorage.com^$important
 @@||*.ubuntu.com^$important
+@@||p.kakaocdn.net^$important
+@@||ticket-loco.kakao.com^$important
+@@||serv-us.ds.kakao.com^$important
+@@||katalk.kakao.com^$important
 @@||usebottles.com^$important
 @@||cdn.quilljs.com^$important
 @@||shazam.com^$important
