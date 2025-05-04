@@ -6,14 +6,12 @@
 @@||*.bebasid.com^$important
 @@||*.adguard-dns.com^$important
 @@||*.alidns.com^$important
-@@||*.ytimg.com^$important
 @@||*.coinbase.com^$important
 @@||*.ipostal1.com^$important
 @@||*.anilist.co^$important
 @@||*.malsync.moe^$important
 @@||imap.*.com^$important
 @@||*.launchpadcontent.net^$important
-@@||*.ytimg.com^$important
 @@||*.steamserver.net^$important
 @@||*.cloudflarestorage.com^$important
 @@||*.ubuntu.com^$important
@@ -458,9 +456,7 @@
 @@||www.lysol.com^$important
 @@||www.clorox.com^$important
 @@||finance.yahoo.com^$important
-@@||s.yimg.com^$important
 @@||translate.google.com^$important
-@@||youtube-ui.l.google.com^$important
 @@||rr*---sn-uhvcpax0n5-*.gvt1.com^$important
 @@||forbes.com^$important
 @@||i.forbesimg.com^$important
@@ -532,7 +528,6 @@
 @@||wikimedia.org^$important
 @@||mydramalist.com^$important
 @@||media.tenor.com^$important
-@@||www.youtube-nocookie.com^$important
 @@||ipinfo.io^$important
 @@||infura.io^$important
 @@||whoami.cloudflare^$important
@@ -663,7 +658,6 @@
 @@||theflixertv.to^$important
 @@||chess.com^$important
 @@||reddit.com^$important
-@@||youtube.com^$important
 @@||waze.com^$important
 @@||aa.com^$important
 @@||delta.com^$important
