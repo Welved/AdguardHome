@@ -247,10 +247,8 @@
 @@||outlook.live.com^$important
 @@||www.microsoft.com^$important
 @@||logincdn.msauth.net^$important
-@@||lh3.googleusercontent.com^$important
 @@||go-updater.brave.com^$important
 @@||extensionupdater.brave.com^$important
-@@||clients2.googleusercontent.com^$important
 @@||www.site24x7.com^$important
 @@||floccus.org^$important
 @@||sb-ssl.brave.com^$important
@@ -387,9 +385,6 @@
 @@||download.docker.com^$important
 @@||analytics.pi-apps.io^$important
 @@||addons.mozilla.org^$important
-@@||fonts.googleapis.com^$important
-@@||fonts.gstatic.com^$important
-@@||www.gstatic.com^$important
 @@||www.linuxuprising.com^$important
 @@||www.reddit.com^$important
 @@||api-bcb54897.duosecurity.com^$important
@@ -436,7 +431,6 @@
 @@||facebook.com^$important
 @@||xx.fbcdn.net^$important
 @@||www.urbandictionary.com^$important
-@@||www.google.com^$important
 @@||tripplite.com^$important
 @@||tripplite.eaton.com^$important
 @@||kerolaunochan.online^$important
@@ -447,16 +441,11 @@
 @@||lttstore.com^$important
 @@||lemonade-prod.cmtelematics.com^$important
 @@||lemonade.com^$important
-@@||apis.google.com^$important
 @@||ipv4.icanhazip.com^$important
-@@||clients.google.com^$important
-@@||play-lh.googleusercontent.com^$important
-@@||play.google.com^$important
 @@||www.johnbridge.com^$important
 @@||www.lysol.com^$important
 @@||www.clorox.com^$important
 @@||finance.yahoo.com^$important
-@@||translate.google.com^$important
 @@||rr*---sn-uhvcpax0n5-*.gvt1.com^$important
 @@||forbes.com^$important
 @@||i.forbesimg.com^$important
@@ -474,7 +463,6 @@
 @@||minecraft.fandom.com^$important
 @@||www.yubico.com^$important
 @@||developers.yubico.com^$important
-@@||maps.google.com^$important
 @@||keepassxc.org^$important
 @@||accuweather.com^$important
 @@||www.awxcdn.com^$important
@@ -485,12 +473,10 @@
 @@||exela-realpage-prod-s3.s3.amazonaws.com^$important
 @@||m1.com^$important
 @@||affirm.com^$important
-@@||clients6.google.com^$important
 @@||discover.com^$important
 @@||withyotta.com^$important
 @@||wealthfront.com^$important
 @@||varomoney.com^$important
-@@||mail.google.com^$important
 @@||cdn.segment.com^$important
 @@||app.columnapi.com^$important
 @@||public.com^$important
@@ -502,10 +488,7 @@
 @@||www.getmonero.org^$important
 @@||downloads.getmonero.org^$important
 @@||pcloud.link^$important
-@@||accounts.google.com^$important
-@@||www.google.com^$important
 @@||spotifycdn.com^$important
-@@||voice.google.com^$important
 @@||auroraoss.com^$important
 @@||security.stackexchange.com^$important
 @@||whois.com^$important
