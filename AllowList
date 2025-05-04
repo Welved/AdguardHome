@@ -7,15 +7,12 @@
 @@||*.adguard-dns.com^$important
 @@||*.alidns.com^$important
 @@||*.ytimg.com^$important
-@@||*.googleapis.com^$important
-@@||*.gstatic.com^$important
 @@||*.coinbase.com^$important
 @@||*.ipostal1.com^$important
 @@||*.anilist.co^$important
 @@||*.malsync.moe^$important
 @@||imap.*.com^$important
 @@||*.launchpadcontent.net^$important
-@@||*.google.com^$important
 @@||*.ytimg.com^$important
 @@||*.steamserver.net^$important
 @@||*.cloudflarestorage.com^$important
@@ -47,9 +44,6 @@
 @@||tv.apple.com^$important
 @@||ups.com^$important
 @@||aus5.mozilla.org^$important
-@@||googlehosted.l.googleusercontent.com^$important
-@@||o.pki.goog^$important
-@@||ci3.googleusercontent.com^$important
 @@||login.microsoft.com^$important
 @@||csp.intuit.com^$important
 @@||ck-assets.imgix.net^$important
