@@ -440,7 +440,6 @@
 @@||www.upstart.com^$important
 @@||tailscale.com^$important
 @@||log.tailscale.io^$important
-@@||ntp.org^$important
 @@||github-cloud.s3.amazonaws.com^$important
 @@||duckduckgo.com^$important
 @@||cleanbrowsing.org^$important
