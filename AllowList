@@ -15,6 +15,8 @@
 @@||*.steamserver.net^$important
 @@||*.cloudflarestorage.com^$important
 @@||*.ubuntu.com^$important
+@@||account.*.com^$important
+@@||accounts.*.com^$important
 @@||clients2.googleusercontent.com^$important
 @@||play.google.com^$important
 @@||ogads-pa.clients6.google.com^$important
@@ -22,7 +24,6 @@
 @@||log.getadblock.com^$important
 @@||adblock-tester.com^$important
 @@||voice.google.com^$important
-@@||accounts.google.com^$important
 @@||fonts.gstatic.com^$important
 @@||www.gstatic.com^$important
 @@||waa-pa.clients6.google.com^$important
@@ -52,7 +53,6 @@
 @@||media.daly2024.com^$important
 @@||www.2embed.cc^$important
 @@||m.youtube.com^$important
-@@||accounts.youtube.com^$important
 @@||deskpi.com^$important
 @@||android.googleapis.com^$important
 @@||www.googleapis.com^$important
