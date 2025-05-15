@@ -11,6 +11,7 @@
 @@||*.dscx.akamaiedge.net^$important
 @@||*.ipostal1.com^$important
 @@||*.kissasian.video^$important
+@@||*.lambda-url.us-west-2.on.aws^$important
 @@||*.launchpadcontent.net^$important
 @@||*.malsync.moe^$important
 @@||*.phoenixcontact.com^$important
@@ -26,7 +27,6 @@
 @@||5g694.project-zenith-220.biz^$important
 @@||5nrdhdrayadkaqp2.premilkyway.com^$important
 @@||60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com^$important
-@@||7v6zjsr36fqrqcaeuqbhyrq46a0qndzt.lambda-url.us-west-2.on.aws^$important
 @@||a.fsdn.com^$important
 @@||a.pololu-files.com^$important
 @@||a2.mp4upload.com^$important
@@ -489,7 +489,6 @@
 @@||phantom.app^$important
 @@||pi-apps.io^$important
 @@||pivotal-communities.com^$important
-@@||pjld2aanw3elvteui4gwyxgx4m0ceweg.lambda-url.us-west-2.on.aws^$important
 @@||planetminecraft.com^$important
 @@||play-lh.googleusercontent.com^$important
 @@||play-store.en.softmany.com^$important
