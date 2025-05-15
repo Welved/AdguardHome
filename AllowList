@@ -37,9 +37,8 @@
 @@||account.microsoft.com.edgekey.net^$important
 @@||account.microsoft.com^$important
 @@||accountcheckupwiz.msdx.microsoft.com^$important
+@@||accounts.*.co^$important
 @@||accounts.*.com^$important
-@@||accounts.firefox.com^$important
-@@||accounts.scdn.co^$important
 @@||acctcdn.msftauth.net^$important
 @@||accuweather.com^$important
 @@||activebuilding.com^$important
