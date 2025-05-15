@@ -7,8 +7,7 @@
 @@||*.cloudflarestorage.com^$important
 @@||*.coinbase.com^$important
 @@||*.crypto.com^$important
-@@||*.dscb.akamaiedge.net^$important
-@@||*.dscx.akamaiedge.net^$important
+@@||*.dsc*.akamaiedge.net^$important
 @@||*.ipostal1.com^$important
 @@||*.kissasian.video^$important
 @@||*.lambda-url.us-west-2.on.aws^$important
@@ -242,7 +241,6 @@
 @@||dropbox.com^$important
 @@||duckduckgo.com^$important
 @@||dwish.pro^$important
-@@||e9769.dsca.akamaiedge.net^$important
 @@||easylist-downloads.adblockplus.org^$important
 @@||ecoflow.com^$important
 @@||edocuments.apexclearing.com^$important
