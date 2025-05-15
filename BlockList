@@ -4,6 +4,7 @@
 ||kakaocdn.net^$important
 ||kakao.com^$important
 ||admaru.com^$important
+||connectivity-check.ubuntu.com^$important
 ||*.*.*##.*.*.*.*.*.*.*.*.*.*.*.*.*.*^$important
 ||*.*.*##.*.*.*.*.*.*.*.*.*.*^$important
 ||*.*.*##.*.*.*.*.*.*.*.*^$important
