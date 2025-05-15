@@ -1,6 +1,6 @@
 *$denyallow=edu|mil|gov|com|net|wiki
-/\.+[a-zA-Z]{2,}$/
-/\.+[a-zA-Z]{-2,}$/
+#/\.+[a-zA-Z]{2,}$/
+#/\.+[a-zA-Z]{-2,}$/
 www1.123movies.domains###PJZYeLAPQeycvahMRxTcP > [href*="/user/profile/premium-membership"]
 www.youtube.com##ytd-modal-with-title-and-button-renderer.style-scope.ytd-popup-container
 games.gala.com##[src*="https://sweepstakes.gala.com/countdown"]
