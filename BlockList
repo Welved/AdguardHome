@@ -3,6 +3,7 @@
 #/\.+[a-zA-Z]{-2,}$/
 ||kakaocdn.net^$important
 ||kakao.com^$important
+||admaru.com^$important
 ||*.*.*##.*.*.*.*.*.*.*.*.*.*.*.*.*.*^$important
 ||*.*.*##.*.*.*.*.*.*.*.*.*.*^$important
 ||*.*.*##.*.*.*.*.*.*.*.*^$important
