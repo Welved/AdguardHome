@@ -3,27 +3,12 @@
 #/\.+[a-zA-Z]{-2,}$/
 ||kakaocdn.net^$important
 ||kakao.com^$important
-||games.gala.com##.popup-frame.visible^$important
-||games.gala.com##.popup-frame.visible > button > .v-icon.notranslate.material-icons.theme--dark^$important
-||games.gala.com##[src*="https://sweepstakes.gala.com/countdown"]^$important
-||onedrive.live.com##.backgroundArea_0f643c2b^$important
-||onedrive.live.com##.ms-Modal-scrollableContent.scrollableContent-96^$important
-||onedrive.live.com##.ms-Overlay.ms-Overlay--dark.modalOverlay_37d87ed5.root-99^$important
-||onedrive.live.com###ModalFocusTrapZone5^$important
-||www.plotz.co.uk###plinst^$important
-||www.reddit.com###nsfw-qr-dialog^$important
-||www.ubereats.com##.a97.a93^$important
-||||www.ubereats.com##.a9a.a9b^$important
-||www.ubereats.com##.ag.as.at.bh.ae.lq.ax.a9h^$important
-||www.ubereats.com##.ag.as.at.bh.ae.lq.me.a9h^$important
-||www.ubereats.com##.ak.bh.mw.mx.my.a9g^$important
-||www.ubereats.com##.al.am.bc.b5.qs^$important
-||www.ubereats.com##.ar.b9.at.ba.jc.al.bc.p3.p4.ef.p5.p6.i5.p7^$important
-||www.ubereats.com##.bo.lj.dr.br.ae.al.ev.d3.bc.pa^$important
-||www.ubereats.com##.ib.g3.ak.al.am.hs.h5^$important
-||www.ubereats.com##div.ag.as.at.bh.ae^$important
-||www.ubereats.com##video^$important
-||www.youtube.com###dismissed^$important
-||www.youtube.com###dismissed-content^$important
-||www.youtube.com##ytd-modal-with-title-and-button-renderer.style-scope.ytd-popup-container^$important
-||www1.123movies.domains###PJZYeLAPQeycvahMRxTcP > [href*="/user/profile/premium-membership"^$important
+||*.*.*##.*.*.*.*.*.*.*.*.*.*.*.*.*.*^$important
+||*.*.*##.*.*.*.*.*.*.*.*.*.*^$important
+||*.*.*##.*.*.*.*.*.*.*.*^$important
+||*.*.*##.*.*.*.*.*.*.*^$important
+||*.*.*##.*.*.*.*.*.*^$important
+||*.*.*##*.*.*.*.*.*^$important
+||*.*.*##.*.*.*.*^$important
+||*.*.*##.*.*^$important
+||*.*.*##*^$important
