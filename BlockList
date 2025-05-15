@@ -1,31 +1,31 @@
 *$denyallow=edu|mil|gov|com|net|wiki
 #/\.+[a-zA-Z]{2,}$/
 #/\.+[a-zA-Z]{-2,}$/
-www1.123movies.domains###PJZYeLAPQeycvahMRxTcP > [href*="/user/profile/premium-membership"]
-www.youtube.com##ytd-modal-with-title-and-button-renderer.style-scope.ytd-popup-container
-games.gala.com##[src*="https://sweepstakes.gala.com/countdown"]
-games.gala.com##.popup-frame.visible > button > .v-icon.notranslate.material-icons.theme--dark
+||kuid-provider.ds.kakao.com^$important
+||mk.kakaocdn.net^$important
+||mvoip-cdr.kakao.com^$important
+||talk-pilsner.kakao.com^$important
 games.gala.com##.popup-frame.visible
-www.ubereats.com##.ag.as.at.bh.ae.lq.me.a9h
-www.ubereats.com##.ag.as.at.bh.ae.lq.ax.a9h
-www.ubereats.com##video
-www.ubereats.com##.ib.g3.ak.al.am.hs.h5
-www.ubereats.com##div.ag.as.at.bh.ae
-www.ubereats.com##.ak.bh.mw.mx.my.a9g
-www.ubereats.com##.a9a.a9b
-www.ubereats.com##.a97.a93
-www.reddit.com###nsfw-qr-dialog
+games.gala.com##.popup-frame.visible > button > .v-icon.notranslate.material-icons.theme--dark
+games.gala.com##[src*="https://sweepstakes.gala.com/countdown"]
 onedrive.live.com##.backgroundArea_0f643c2b
 onedrive.live.com##.ms-Modal-scrollableContent.scrollableContent-96
-onedrive.live.com###ModalFocusTrapZone5
 onedrive.live.com##.ms-Overlay.ms-Overlay--dark.modalOverlay_37d87ed5.root-99
+onedrive.live.com###ModalFocusTrapZone5
 www.plotz.co.uk###plinst
-www.youtube.com###dismissed-content
-www.youtube.com###dismissed
+www.reddit.com###nsfw-qr-dialog
+www.ubereats.com##.a97.a93
+www.ubereats.com##.a9a.a9b
+www.ubereats.com##.ag.as.at.bh.ae.lq.ax.a9h
+www.ubereats.com##.ag.as.at.bh.ae.lq.me.a9h
+www.ubereats.com##.ak.bh.mw.mx.my.a9g
 www.ubereats.com##.al.am.bc.b5.qs
-www.ubereats.com##.bo.lj.dr.br.ae.al.ev.d3.bc.pa
 www.ubereats.com##.ar.b9.at.ba.jc.al.bc.p3.p4.ef.p5.p6.i5.p7
-||talk-pilsner.kakao.com^$important
-||mvoip-cdr.kakao.com^$important
-||mk.kakaocdn.net^$important
-||kuid-provider.ds.kakao.com^$important
+www.ubereats.com##.bo.lj.dr.br.ae.al.ev.d3.bc.pa
+www.ubereats.com##.ib.g3.ak.al.am.hs.h5
+www.ubereats.com##div.ag.as.at.bh.ae
+www.ubereats.com##video
+www.youtube.com###dismissed
+www.youtube.com###dismissed-content
+www.youtube.com##ytd-modal-with-title-and-button-renderer.style-scope.ytd-popup-container
+www1.123movies.domains###PJZYeLAPQeycvahMRxTcP > [href*="/user/profile/premium-membership"]
