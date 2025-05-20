@@ -5,18 +5,11 @@
 @@||fonts.gstatic.com^$important
 @@||i*.ytimg.com^$important
 @@||js-agent.newrelic.com^$important
-@@||login.live.com^$important
-@@||login.microsoftonline.com^$important
-@@||logincdn.msauth.net^$important
 @@||m.youtube.com^$important
-@@||m365.cloud.microsoft^$important
 @@||mail.*.com^$important
 @@||mparticle.weather.com^$important
-@@||my.microsoftpersonalcontent.com^$important
-@@||office.live.com^$important
 @@||old.reddit.com^$important
 @@||one.one.one.one^$important
-@@||onedrive.live.com^$important
 @@||p.kakaocdn.net^$important
 @@||p.sfx.ms^$important
 @@||packages.debian.org^$important
@@ -26,10 +19,6 @@
 @@||pretendo.network^$important
 @@||preview.redd.it^$important
 @@||reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
-@@||res-*.cdn.office.net^$important
-@@||res-*.public.onecdn.static.microsoft^$important
-@@||res.cdn.office.net^$important
-@@||res.public.onecdn.static.microsoft^$important
 @@||rexdl.com^$important
 @@||rr*---sn-*.googlevideo.com^$important
 @@||s.w-x.co^$important
@@ -40,7 +29,6 @@
 @@||simplelogin.io^$important
 @@||ssl.gstatic.com^$important
 @@||static2.sharepointonline.com^$important
-@@||storage.live.com^$important
 @@||streamingworld.xyz^$important
 @@||support.google.com^$important
 @@||takeout.google.com^$important
@@ -62,9 +50,7 @@
 @@||www.google.com^$important
 @@||www.gstatic.com^$important
 @@||www.hunsn.com^$important
-@@||www.live.com^$important
 @@||www.netflix.com^$important
-@@||www.office.com^$important
 @@||www.reddit.com^$important
 @@||www.redditstatic.com^$important
 @@||www.twingate.com^$important
