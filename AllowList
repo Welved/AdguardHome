@@ -6,7 +6,6 @@
 @@||i*.ytimg.com^$important
 @@||js-agent.newrelic.com^$important
 @@||m.youtube.com^$important
-@@||mail.*.com^$important
 @@||mparticle.weather.com^$important
 @@||old.reddit.com^$important
 @@||one.one.one.one^$important
@@ -30,13 +29,10 @@
 @@||ssl.gstatic.com^$important
 @@||static2.sharepointonline.com^$important
 @@||streamingworld.xyz^$important
-@@||support.google.com^$important
-@@||takeout.google.com^$important
 @@||talk-pilsner.kakao.com^$important
 @@||tmstr2.shadowlandschronicles.com^$important
 @@||transmissionbt.com^$important
 @@||ubuntu.pkgs.org^$important
-@@||update.googleapis.com^$important
 @@||urlhaus.abuse.ch^$important
 @@||vidsrc.stream^$important
 @@||vidsrc.xyz^$important
@@ -47,7 +43,6 @@
 @@||who.is^$important
 @@||wiki.obtainium.imranr.dev^$important
 @@||ww19.0123movie.net^$important
-@@||www.google.com^$important
 @@||www.gstatic.com^$important
 @@||www.hunsn.com^$important
 @@||www.netflix.com^$important
