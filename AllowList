@@ -1,5 +1,6 @@
 @@||account.*.com^$important
 @@||accounts.*.com^$important
+@@||mail.*.com^important
 @@||api.onedrive.com^$important
 @@||api.weather.com^$important
 @@||fonts.gstatic.com^$important
