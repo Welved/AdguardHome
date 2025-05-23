@@ -1,3 +1,5 @@
+@@||accounts.*.com^$important
+@@||imap.*.com^$important
 @@||kshow123.*^$important
 @@||login.*.com^$important
 @@||mail.*.com^$important
@@ -24,6 +26,7 @@
 @@||app.launchdarkly.com^$important
 @@||assets.adobedtm.com^$important
 @@||auth.split.io^$important
+@@||brave-browser-apt-release.s3.brave.com^$important
 @@||c.s-microsoft.com^$important
 @@||calyxinstitute.org^$important
 @@||calyxos.org^$important
@@ -39,6 +42,7 @@
 @@||dh1y47vf5ttia.cloudfront.net^$important
 @@||discord-attachments-uploads-prd.storage.googleapis.com^$important
 @@||discord.gg^$important
+@@||dl.google.com^$important
 @@||doc-08-ao-apps-viewer.googleusercontent.com^$important
 @@||docker.io^$important
 @@||docs.google.com^$important
@@ -62,6 +66,7 @@
 @@||guce.yahoo.com^$important
 @@||homesteadcraft.com^$important
 @@||hub.docker.com^$important
+@@||i.ytimg.com^$important
 @@||image.tmdb.org^$important
 @@||img.cdno.my.id^$important
 @@||instantmessaging-pa.googleapis.com^$important
@@ -97,6 +102,7 @@
 @@||p.kakaocdn.net^$important
 @@||p.sfx.ms^$important
 @@||packages.debian.org^$important
+@@||packages.microsoft.com^$important
 @@||packages.mozilla.org^$important
 @@||pay.google.com^$important
 @@||payments.google.com^$important
@@ -125,6 +131,7 @@
 @@||safing.io^$important
 @@||sascdn.com^$important
 @@||search.brave.com^$important
+@@||security.ubuntu.com^$important
 @@||self.inc^$important
 @@||sessions-bugsnag.docker.com^$important
 @@||sharedeasy.club^$important
