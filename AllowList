@@ -42,8 +42,6 @@
 @@||m.sni.global.fastly.net^$important
 @@||m.stripe.network^$important
 @@||m.youtube.com^$important
-@@||maps.google.com^$important
-@@||maps.gstatic.com^$important
 @@||mparticle.weather.com^$important
 @@||my.microsoftpersonalcontent.com^$important
 @@||oauth2.googleapis.com^$important
