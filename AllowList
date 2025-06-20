@@ -5,7 +5,8 @@
 @@||mail.*.com^$important
 @@||maps.*.com^$important
 @@||rr*---sn-*.googlevideo.com^$important
-@@||rr*---sn-uhvcpax0n5-p5ir.gvt1.com^$important
+@@||rr*---sn-*.gvt1.com^$important
+@@||animekai.bz^$important
 @@||s3-us-gov-*-*.amazonaws.com^$important
 @@||1drv.ms^$important
 @@||accdn.lpsnmedia.net^$important
