@@ -1,4 +1,4 @@
-*$denyallow=edu|mil|gov|com|net|wiki
+*$denyallow=edu|mil|gov|com|net|wiki|arpa
 #/\.+[a-zA-Z]{2,}$/
 /\.+[a-zA-Z]{-2,}$/
 #---------------------------------------------
