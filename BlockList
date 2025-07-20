@@ -1,5 +1,5 @@
 *$denyallow=edu|mil|gov|com|net|wiki
-/\.+[a-zA-Z]{2,}$/
+#/\.+[a-zA-Z]{2,}$/
 /\.+[a-zA-Z]{-2,}$/
 #---------------------------------------------
 ||adobe*.com^$important
