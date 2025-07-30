@@ -84,7 +84,6 @@
 @@||api.positon.xyz^$important
 @@||api.snapcraft.io^$important
 @@||api.weather.com^$important
-@@||api-global.netflix.com^$important
 @@||apis.google.com^$important
 @@||app.launchdarkly.com^$important
 @@||appgrooves.com^$important
@@ -294,7 +293,6 @@
 @@||nflximg.net^$important
 @@||nflxso.net^$important
 @@||notifications-pa.googleapis.com^$important
-@@||nrdp.prod.cloud.netflix.com^$important
 @@||nrdp.ws.ale.netflix.com^$important
 @@||ntm.pstatic.net^$important
 @@||oauth2.googleapis.com^$important
