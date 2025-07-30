@@ -33,3 +33,6 @@
 ||reddit.com^$important
 ||flashtalking.com
 ||googlesyndication.com
+||darnuid.netflix.com^$important
+||occ-0-472-465.1.nflxso.net^$important
+||prod.ftl.netflix.com^$important
