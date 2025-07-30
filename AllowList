@@ -8,6 +8,7 @@
 @@||208.67.220.220^$important
 @@||208.67.222.2^$important
 @@||208.67.222.222^$important
+@@||77.88.8.8^$important
 @@||212.109.195.93^$important
 @@||216.146.35.35^$important
 @@||216.146.36.36^$important
@@ -23,8 +24,8 @@
 @@||51.38.82.198^$important
 @@||51.38.83.141^$important
 @@||52.3.100.184^$important
-@@||52.80.52.52^$important
 @@||54.174.40.213^$important
+@@||77.88.8.2^$important
 @@||64.6.64.6^$important
 @@||64.6.65.6^$important
 @@||74.82.42.42^$important
@@ -33,9 +34,8 @@
 @@||76.76.2.1^$important
 @@||76.76.2.2^$important
 @@||76.76.2.3^$important
+@@||52.80.52.52^$important
 @@||77.88.8.1^$important
-@@||77.88.8.2^$important
-@@||77.88.8.8^$important
 @@||77.88.8.88^$important
 @@||8.20.247.20^$important
 @@||8.26.56.26^$important
@@ -293,7 +293,9 @@
 @@||nflximg.net^$important
 @@||nflxso.net^$important
 @@||notifications-pa.googleapis.com^$important
+@@||nrdp.prod.cloud.netflix.com^$important
 @@||nrdp.ws.ale.netflix.com^$important
+@@||nrdp-ipv6.prod.ftl.netflix.com^$important
 @@||ntm.pstatic.net^$important
 @@||oauth2.googleapis.com^$important
 @@||office.com^$important
