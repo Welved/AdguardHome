@@ -12,6 +12,7 @@
 ||brave-http-only.com^$important
 ||cloudflare.*^$important
 ||darnuid.netflix.com^$important
+||dnm.nflximg.net^$important
 ||duckduckgo.com^$important
 ||firefox.com^$important
 ||flashtalking.com
@@ -27,7 +28,6 @@
 ||ms*.net^$important
 ||msidentity.com^$important
 ||nflx*.net^$important
-||nrdp.prod.cloud.netflix.com^$important
 ||occ-0-472-465.1.nflxso.net^$important
 ||prod.ftl.netflix.com^$important
 ||qwant.com^$important
