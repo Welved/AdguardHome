@@ -293,12 +293,11 @@
 @@||nflximg.net^$important
 @@||nflxso.net^$important
 @@||notifications-pa.googleapis.com^$important
-@@||nrdp.prod.cloud.netflix.com^$important
-@@||nrdp.ws.ale.netflix.com^$important
-@@||nrdp-ipv6.prod.ftl.netflix.com^$important
 @@||ntm.pstatic.net^$important
 @@||oauth2.googleapis.com^$important
 @@||office.com^$important
+@@||samsung*.com^$important
+@@||samsung*.tv^$important
 @@||office.net^$important
 @@||old.reddit.com^$important
 @@||old-releases.ubuntu.com^$important
@@ -325,7 +324,6 @@
 @@||play-lh.googleusercontent.com^$important
 @@||pool.ntp.org^$important
 @@||portainer-io-assets.sfo2.digitaloceanspaces.com^$important
-@@||preapp.prod.partner.netflix.net^$important
 @@||pretendo.network^$important
 @@||preview.redd.it^$important
 @@||privacy.com^$important
@@ -359,8 +357,6 @@
 @@||s3-design-language-system.cdn4dd.com^$important
 @@||s3-us-gov-*-*.amazonaws.com^$important
 @@||safing.io^$important
-@@||samsung*.com^$important
-@@||samsung*.tv^$important
 @@||sascdn.com^$important
 @@||scontent.cdninstagram.com^$important
 @@||scontent-hou1-1.cdninstagram.com^$important
@@ -417,7 +413,6 @@
 @@||twrp.me^$important
 @@||ubuntu.pkgs.org^$important
 @@||uhf.microsoft.com^$important
-@@||uiboot.netflix.com^$important
 @@||unagi.amazon.com^$important
 @@||update.microsoft.com^$important
 @@||updates.nextcloud.org^$important
@@ -441,7 +436,6 @@
 @@||wcpstatic.microsoft.com^$important
 @@||we5gbhv7zbfllkkvqgumiyyvyy.appsync-api.us-east-2.amazonaws.com^$important
 @@||web.facebook.com^$important
-@@||web.prod.cloud.netflix.com^$important
 @@||web.whatsapp.com^$important
 @@||web-assets.cdn4dd.com^$important
 @@||web-chat-e2ee.facebook.com^$important
@@ -479,7 +473,6 @@
 @@||www.mayoclinic.org^$important
 @@||www.microsoft.com^$important
 @@||www.mydav.org^$important
-@@||www.netflix.com^$important
 @@||www.netify.ai^$important
 @@||www.nhs.uk^$important
 @@||www.ntppool.org^$important
