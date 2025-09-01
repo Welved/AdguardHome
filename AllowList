@@ -497,3 +497,30 @@
 @@||yuzu-emu.org^$important
 @@||zendesk.com^$important
 @@||znmx.mv36bbcfa.site^$important
+@@||bitwarden.com^$important
+@@||www.verizon.com^$important
+#----------SamsungTV Whitelist------------------#
+@@||acr-us-prd.samsungcloud.tv^$important
+@@||scs.samsungqbe.com^$important
+@@||live979c117.airspace-f.cbsivideo.com^$important
+@@||lineup.play.cbsi.video^$important
+@@||tvp-ads-log.samsungads.com^$important
+@@||cdn.samsungcloudsolution.com^$important
+@@||time.samsungcloudsolution.com^$important
+@@||lcprd1.samsungcloudsolution.net^$important
+@@||osb-v2.samsungqbe.com^$important
+#--------------- Netflix Whitelist----------------------#
+@@||www.netflix.com^$important
+@@||nrdp52-appboot.netflix.com^$important
+@@||cdn-0.nflximg.com^$important
+@@||ichnaea.netflix.com^$important
+@@||assets.nflxext.com^$important
+@@||web.prod.cloud.netflix.com^$important
+@@||phl00*-ix.1.oca.nflxvideo.net^$important
+@@||was003-ix.1.ocga.nflxvideo.net^$important
+@@||occ-0-472-465.1.nflxso.net^$important
+@@||oca-api.*-*-*.origin.prodaa.netflix.com^$important
+@@||api-global.netflix.com^$important
+@@||ipv4-c100-phl001-ix.ftl.nflxvideo.net^$important
+@@||oca-api.netflix.com^$important
+@@||nrdp.prod.cloud.netflix.com^$important
