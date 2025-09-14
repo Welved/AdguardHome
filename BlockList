@@ -2,14 +2,16 @@
 #/\.+[a-zA-Z]{2,}$/
 #/\.+[a-zA-Z]{-2,}$/
 #---------------------------------------------
+||2mdn.net^$important
+||ad.daum.net^$important
 ||adobe*.com^$important
 ||aka*.net^$important
 ||akamaiedge.net^$important
 ||amazon*.com^$important
 ||azure.com^$important
 ||b-dc-msedge.net^$important
-||brave.com^$important
 ||brave-http-only.com^$important
+||brave.com^$important
 ||cloudflare.*^$important
 ||darnuid.netflix.com^$important
 ||dnm.nflximg.net^$important
@@ -17,7 +19,9 @@
 ||firefox.com^$important
 ||flashtalking.com
 ||github.com^$important
+||gocarrot.com^$important
 ||googlesyndication.com
+||imgbox.com^$important
 ||jetbrains.com^$important
 ||l-0003.l-msedge.net^$important
 ||launchpad.net^$important
@@ -38,7 +42,3 @@
 ||trafficmanager.net^$important
 ||ubuntu.com^$important
 ||vidyard.com^$important
-||2mdn.net^$important
-||ad.daum.net^$important
-||gocarrot.com^$important
-||imgbox.com^$important
